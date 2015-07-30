@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 20:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 20:15:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's What Inspired Top Minds in Artificial Intelligence to Get Into the Field]]></title>
+            <description><![CDATA[<article><h1>Here's What Inspired Top Minds in Artificial Intelligence to Get Into the Field</h1><p>Artificial intelligence can seem pretty terrifying. On July 28, representatives from the Future of Life Institute presented a letter signed by Tesla Motors Chief Executive Officer Elon Musk, Apple co-founder Steve Wozniak, theoretical physicist Stephen Hawking, and other luminaries of the science and technology world who are urging a ban on autonomous weapons.</p><img src="http://assets.bwbx.io/images/i3Tc75iIi_pU/v1/-1x-1.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2015-07-29/here-s-what-inspired-top-minds-in-artificial-intelligence-to-get-into-the-field</link>
+            <guid isPermaLink="false">a8e51057-c0d8-4e1f-ba3c-dfaaf6b0e5c9</guid>
+            <pubDate>Thu, 30 Jul 2015 20:14:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deep Learning and Music Experiences]]></title>
             <description><![CDATA[<article><h1>Deep Learning and Music Experiences</h1><p>In recent years, our musical horizons have expanded dramatically with unprecedented access to a panoply of songs via the Internet. But, how do we wade through this melodic overload to get a truly personalised listening experience? The secret seems to lie in the bounding advances made in deep learning.</p><img src="http://niland.io/wp-content/uploads/2015/07/83125496_spotify_now.jpg?73edda"></article>]]></description>
