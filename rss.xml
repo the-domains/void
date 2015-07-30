@@ -5,8 +5,15 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 20:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2015 20:15:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep Learning and Music Experiences]]></title>
+            <description><![CDATA[<article><h1>Deep Learning and Music Experiences</h1><p>In recent years, our musical horizons have expanded dramatically with unprecedented access to a panoply of songs via the Internet. But, how do we wade through this melodic overload to get a truly personalised listening experience? The secret seems to lie in the bounding advances made in deep learning.</p><img src="http://niland.io/wp-content/uploads/2015/07/83125496_spotify_now.jpg?73edda"></article>]]></description>
+            <link>http://niland.io/deep-learning-and-the-future-of-music-listening-experiences/</link>
+            <guid isPermaLink="false">ddc4c6a9-a38f-4cb8-a7e4-e461e0aacf8d</guid>
+            <pubDate>Thu, 30 Jul 2015 20:14:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design machines]]></title>
             <description><![CDATA[<article><h1>Design machines</h1><p>Donald trawls Google Fonts for ten minutes. There are a few candidates, but Don's not so confident in his font evaluation skills. He lands on Open Sans. Good ol' faithful. He sets the actionable headline text to 48pt using the light weight in white.</p><img src="https://dwpz7qu8szxnd.cloudfront.net/articles/collage.jpg?mtime=20150627170425"></article>]]></description>
