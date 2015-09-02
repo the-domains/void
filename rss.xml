@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Sep 2015 02:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 02:58:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview with Manfred Mohr: Art as a Calculation]]></title>
+            <description><![CDATA[<article><h1>Interview with Manfred Mohr: Art as a Calculation</h1><p>By Pau Waelder [Part of this interview was published in art.es magazine, Issue 47, 2011] Manfred Mohr (Pforzheim, Germany, 1938) is a pioneer of digital art. A co-founder the "Art et Informatique" seminar in 1968 at Vincennes University in Paris, his art was transformed by the influence of the writing of Max Bense, which lead him to work on computer-generated algorithmic geometry.</p><img src="http://www.emohr.com/paris-1971/images-text/museum_W.jpg"></article>]]></description>
+            <link>http://laboralcentrodearte.uoc.edu/?p=3041</link>
+            <guid isPermaLink="false">6b1df0ab-12ec-44e3-a566-96cd305d371e</guid>
+            <pubDate>Wed, 02 Sep 2015 02:57:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Manfred Mohr]]></title>
             <description><![CDATA[<article><h1>Manfred Mohr</h1><p></p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/digital-nomad-stories/what-s-in-my-bag-76a600b8bd1a</link>
             <guid isPermaLink="false">fdba0b83-3df9-41ce-a86f-30b6f88f5de2</guid>
             <pubDate>Thu, 30 Jul 2015 16:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Neil_Harbisson_Philip_Glass.jpg/220px-Neil_Harbisson_Philip_Glass.jpg">]]></description>
-            <link>https://thegrid.ai/void/4ca06ce7-29f5-4a0e-8dab-19ed35d85d15/index.html</link>
-            <guid isPermaLink="false">4ca06ce7-29f5-4a0e-8dab-19ed35d85d15</guid>
-            <pubDate>Thu, 30 Jul 2015 16:43:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
