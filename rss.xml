@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[void]]></title>
+        <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 17:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2015 02:31:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ten technologies that are precursors to the AI era | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Ten technologies that are precursors to the AI era | ZDNet</h1><p>After decades of research and development, artificial intelligence (AI) is finally becoming a part of daily life. While we may not be fully in the age of AI just yet, there's no denying that it's just around the corner.</p><img src="http://zdnet2.cbsistatic.com/hub/i/r/2015/09/01/f6b098b2-005b-4f5a-9360-8d8f851e9a1c/thumbnail/770x578/f3058b23194762345d56e82c0f503417/istock000064700101full.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/ten-technologies-that-are-precursors-to-the-ai-era/</link>
+            <guid isPermaLink="false">0f72739b-ad67-485b-8578-91e7d9d1f582</guid>
+            <pubDate>Wed, 02 Sep 2015 02:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://36.media.tumblr.com/8e6e93d6dc644e6f924e03eada75be60/tumblr_noyg86eA2Q1s9r45jo1_500.jpg">]]></description>
