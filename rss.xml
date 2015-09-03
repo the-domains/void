@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 15:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 15:40:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda]]></title>
+            <description><![CDATA[<article><h1>Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda</h1><p>Um ventilador com lâmpadas de led acopladas a suas pás promove um show de luzes, enquanto drones equipados com incensos se revezam ao defumar o ambiente que, por sua vez, é musicado com trilhas trabalhadas, aguçando ao máximo os sentidos dos participantes.</p><img src="http://extra.globo.com/incoming/17326226-b7d-4f0/w976h550/abertura-festival.jpg"></article>]]></description>
+            <link>http://extra.globo.com/noticias/brasil/tecnoxamanismo-mistura-rituais-indigenas-tecnologias-entenda-17325518.html</link>
+            <guid isPermaLink="false">9e7440dc-078b-4c5d-8a73-19fd6349c6da</guid>
+            <pubDate>Thu, 03 Sep 2015 15:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dan Lidral Porter - Generating Art In Many Worlds]]></title>
             <description><![CDATA[<article><h1>Dan Lidral Porter - Generating Art In Many Worlds</h1><p>Nice intro about Iterated Function Systems</p><img src="https://i.ytimg.com/vi/vLlbEZt-3j0/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Here's What Inspired Top Minds in Artificial Intelligence to Get Into the Field</h1><p>Artificial intelligence can seem pretty terrifying. On July 28, representatives from the Future of Life Institute presented a letter signed by Tesla Motors Chief Executive Officer Elon Musk, Apple co-founder Steve Wozniak, theoretical physicist Stephen Hawking, and other luminaries of the science and technology world who are urging a ban on autonomous weapons.</p><img src="http://assets.bwbx.io/images/i3Tc75iIi_pU/v1/-1x-1.jpg"></article>]]></description>
             <link>http://www.bloomberg.com/news/articles/2015-07-29/here-s-what-inspired-top-minds-in-artificial-intelligence-to-get-into-the-field</link>
             <guid isPermaLink="false">a8e51057-c0d8-4e1f-ba3c-dfaaf6b0e5c9</guid>
-            <pubDate>Thu, 30 Jul 2015 20:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Learning and Music Experiences]]></title>
-            <description><![CDATA[<article><h1>Deep Learning and Music Experiences</h1><p>In recent years, our musical horizons have expanded dramatically with unprecedented access to a panoply of songs via the Internet. But, how do we wade through this melodic overload to get a truly personalised listening experience? The secret seems to lie in the bounding advances made in deep learning.</p><img src="http://niland.io/wp-content/uploads/2015/07/83125496_spotify_now.jpg?73edda"></article>]]></description>
-            <link>http://niland.io/deep-learning-and-the-future-of-music-listening-experiences/</link>
-            <guid isPermaLink="false">ddc4c6a9-a38f-4cb8-a7e4-e461e0aacf8d</guid>
             <pubDate>Thu, 30 Jul 2015 20:14:53 GMT</pubDate>
         </item>
     </channel>
