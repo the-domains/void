@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 15:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 15:42:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chaos Communication Camp 2015]]></title>
+            <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><img src="https://c2.staticflickr.com/6/5735/20528536291_c6bf4205b8_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/blinkenarea/sets/72157656744791999/</link>
+            <guid isPermaLink="false">943d84b0-a2e1-41e2-a14f-cfe4e589a135</guid>
+            <pubDate>Thu, 03 Sep 2015 15:41:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt]]></title>
             <description><![CDATA[<article><h1>20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt</h1><p>Die c-base in Berlin-Mitte, das sind die Überreste einer abgestürzten, 4,5 Milliarden Jahre alten Raumstation, zumindest, wenn man der Pressemappe glaubt. Nur die Antenne der unterirdischen, scheibenförmigen Station ragt noch am Alexanderplatz aus der Erde, so die Legende-Amateure nennen sie „Fernsehturm".</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24595/1439482286454189.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.zdnet.com/article/ten-technologies-that-are-precursors-to-the-ai-era/</link>
             <guid isPermaLink="false">0f72739b-ad67-485b-8578-91e7d9d1f582</guid>
             <pubDate>Wed, 02 Sep 2015 02:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://36.media.tumblr.com/8e6e93d6dc644e6f924e03eada75be60/tumblr_noyg86eA2Q1s9r45jo1_500.jpg">]]></description>
-            <link>https://thegrid.ai/void/1618a048-ae57-4a9c-bbcd-429b99f28876/index.html</link>
-            <guid isPermaLink="false">1618a048-ae57-4a9c-bbcd-429b99f28876</guid>
-            <pubDate>Tue, 04 Aug 2015 17:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
