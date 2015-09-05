@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 00:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2015 00:31:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Implementing a Neural Network from Scratch - An Introduction]]></title>
+            <description><![CDATA[<article><h1>Implementing a Neural Network from Scratch - An Introduction</h1><p>Get the code: To follow along, all the code is also available as an iPython notebook on Github. In this post we will implement a simple 3-layer neural network from scratch. We won't derive all the math that's required, but I will try to give an intuitive explanation of what we are doing.</p><img src="http://www.wildml.com/wp-content/uploads/2015/09/nn-from-scratch-dataset.png"></article>]]></description>
+            <link>http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/</link>
+            <guid isPermaLink="false">d61de583-e07b-444e-a85d-94ddfc93f616</guid>
+            <pubDate>Sat, 05 Sep 2015 00:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neural Networks, Types, and Functional Programming]]></title>
             <description><![CDATA[<article><h1>Neural Networks, Types, and Functional Programming</h1><p>Posted on September 3, 2015 Deep learning, despite its remarkable successes, is a young field - perhaps ten years old. While models called artificial neural networks have been studied for decades, much of that work seems only tenuously connected to modern results. It's often the case that young fields start in a very ad-hoc manner.</p><img src="http://colah.github.io/posts/2015-09-NN-Types-FP/img/netvis.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://nautil.us/blog/how-utter-darkness-could-heal-lazy-eye</link>
             <guid isPermaLink="false">50989743-371a-4e1e-ba68-6569a4711d21</guid>
             <pubDate>Thu, 03 Sep 2015 15:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interview with Manfred Mohr: Art as a Calculation]]></title>
-            <description><![CDATA[<article><h1>Interview with Manfred Mohr: Art as a Calculation</h1><p>By Pau Waelder [Part of this interview was published in art.es magazine, Issue 47, 2011] Manfred Mohr (Pforzheim, Germany, 1938) is a pioneer of digital art. A co-founder the "Art et Informatique" seminar in 1968 at Vincennes University in Paris, his art was transformed by the influence of the writing of Max Bense, which lead him to work on computer-generated algorithmic geometry.</p><img src="http://www.emohr.com/paris-1971/images-text/museum_W.jpg"></article>]]></description>
-            <link>http://laboralcentrodearte.uoc.edu/?p=3041</link>
-            <guid isPermaLink="false">6b1df0ab-12ec-44e3-a566-96cd305d371e</guid>
-            <pubDate>Wed, 02 Sep 2015 02:57:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
