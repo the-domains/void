@@ -5,11 +5,18 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 18:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 18:30:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Google Is Working On A New Algorithm - Thought Vectors]]></title>
+            <description><![CDATA[<article><h1>Google Is Working On A New Algorithm - Thought Vectors</h1><p>Professor Geoff Hinton, who was hired by Google two years ago to develop intelligent operating systems, said that the company is on the brink of developing algorithms with the capacity for logic, natural conversation and even flirtation.</p><img src="https://cdn1.wtvox.com/wp-content/uploads/os1-wt-vox-artificial-intellgence-google.png"></article>]]></description>
+            <link>https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/?imm_mid=0d7ca5&amp;cmp=em-data-na-na-newsltr_20150902</link>
+            <guid isPermaLink="false">57cb1cff-3a4c-44a7-b7ca-d84f6eef540f</guid>
+            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[cireneikual]]></title>
-            <description><![CDATA[<article><h1>cireneikual</h1><p>Hello! When working on HTFE, I spend a lot of time dealing with how one properly creates SDRs (Sparse Distributed Representations, aka sparse codes) for inputs. I have recently created a semi-new method of generating sparse codes in a very fast manner that, to my knowledge, is biologically plausible.</p><img src="https://cireneikual.files.wordpress.com/2015/02/rewardincreasing.png?w=712&h=534"></article>]]></description>
+            <description><![CDATA[<article><h1>cireneikual</h1><p>Hello! When working on HTFE, I spend a lot of time dealing with how one properly creates SDRs (Sparse Distributed Representations, aka sparse codes) for inputs. I have recently created a semi-new method of generating sparse codes in a very fast manner that, to my knowledge, is biologically plausible.</p><img src="https://cireneikual.files.wordpress.com/2015/02/rewardincreasing.png&h=534"></article>]]></description>
             <link>https://cireneikual.wordpress.com/</link>
             <guid isPermaLink="false">1915f44c-a759-4c57-9c7e-bcf051512fd2</guid>
             <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
@@ -69,13 +76,6 @@
             <link>https://www.flickr.com/photos/blinkenarea/20002917384/in/album-72157656744791999/</link>
             <guid isPermaLink="false">bf5b53b7-ff0d-42e2-84f0-44a578391c26</guid>
             <pubDate>Thu, 03 Sep 2015 15:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How yuppies hacked the hacker ethos - Brett Scott - Aeon]]></title>
-            <description><![CDATA[<article><h1>How yuppies hacked the hacker ethos - Brett Scott - Aeon</h1><p>Any large and alienating infrastructure controlled by a technocratic elite is bound to provoke. In particular, it will nettle those who want to know how it works, those who like the thrill of transgressing, and those who value the principle of open access.</p><img src="http://cdn-imgs-mag.aeon.co/images/2015/07/00192327-960x601.jpg"></article>]]></description>
-            <link>http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/</link>
-            <guid isPermaLink="false">e54c8a99-9308-4379-a6d0-0dbffa1d5b22</guid>
-            <pubDate>Thu, 03 Sep 2015 15:40:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
