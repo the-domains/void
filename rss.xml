@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 18:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 18:30:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cireneikual]]></title>
+            <description><![CDATA[<article><h1>cireneikual</h1><p>Hello! When working on HTFE, I spend a lot of time dealing with how one properly creates SDRs (Sparse Distributed Representations, aka sparse codes) for inputs. I have recently created a semi-new method of generating sparse codes in a very fast manner that, to my knowledge, is biologically plausible.</p><img src="https://cireneikual.files.wordpress.com/2015/02/rewardincreasing.png?w=712&h=534"></article>]]></description>
+            <link>https://cireneikual.wordpress.com/</link>
+            <guid isPermaLink="false">1915f44c-a759-4c57-9c7e-bcf051512fd2</guid>
+            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GoodAI | Brain Simulator]]></title>
             <description><![CDATA[<article><h1>GoodAI | Brain Simulator</h1><p>Design your own AI brain on Brain Simulator: Click here to download our installer or access the project on GitHub. Please note that using Brain Simulator requires an nVIDIA CUDA-enabled graphics card and 64-bit Windows. You can also check out our Brain Simulator release notes and Brain Simulator documentation.</p><img src="http://i3.ytimg.com/vi/froJfzmwj18/hqdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://aeon.co/magazine/technology/how-yuppies-hacked-the-original-hacker-ethos/</link>
             <guid isPermaLink="false">e54c8a99-9308-4379-a6d0-0dbffa1d5b22</guid>
             <pubDate>Thu, 03 Sep 2015 15:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda]]></title>
-            <description><![CDATA[<article><h1>Tecnoxamanismo mistura rituais indígenas e tecnologias; entenda</h1><p>Um ventilador com lâmpadas de led acopladas a suas pás promove um show de luzes, enquanto drones equipados com incensos se revezam ao defumar o ambiente que, por sua vez, é musicado com trilhas trabalhadas, aguçando ao máximo os sentidos dos participantes.</p><img src="http://extra.globo.com/incoming/17326226-b7d-4f0/w976h550/abertura-festival.jpg"></article>]]></description>
-            <link>http://extra.globo.com/noticias/brasil/tecnoxamanismo-mistura-rituais-indigenas-tecnologias-entenda-17325518.html</link>
-            <guid isPermaLink="false">9e7440dc-078b-4c5d-8a73-19fd6349c6da</guid>
-            <pubDate>Thu, 03 Sep 2015 15:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
