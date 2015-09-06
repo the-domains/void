@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 00:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 18:30:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GoodAI | Brain Simulator]]></title>
+            <description><![CDATA[<article><h1>GoodAI | Brain Simulator</h1><p>Design your own AI brain on Brain Simulator: Click here to download our installer or access the project on GitHub. Please note that using Brain Simulator requires an nVIDIA CUDA-enabled graphics card and 64-bit Windows. You can also check out our Brain Simulator release notes and Brain Simulator documentation.</p><img src="http://i3.ytimg.com/vi/froJfzmwj18/hqdefault.jpg"></article>]]></description>
+            <link>http://www.goodai.com/#!brain-simulator/c81c</link>
+            <guid isPermaLink="false">75c73394-7ef6-4c09-abd3-af9f71678133</guid>
+            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don't Worry, Smart Machines Will Take Us With Them - Issue 28: 2050 - Nautilus]]></title>
             <description><![CDATA[<article><h1>Don't Worry, Smart Machines Will Take Us With Them - Issue 28: 2050 - Nautilus</h1><p>When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us. In a recent poll, machine intelligence experts predicted that computers would gain human-level ability around the year 2050, and superhuman ability less than 30 years after.</p><img src="http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://extra.globo.com/noticias/brasil/tecnoxamanismo-mistura-rituais-indigenas-tecnologias-entenda-17325518.html</link>
             <guid isPermaLink="false">9e7440dc-078b-4c5d-8a73-19fd6349c6da</guid>
             <pubDate>Thu, 03 Sep 2015 15:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dan Lidral Porter - Generating Art In Many Worlds]]></title>
-            <description><![CDATA[<article><h1>Dan Lidral Porter - Generating Art In Many Worlds</h1><p>Nice intro about Iterated Function Systems</p><img src="https://i.ytimg.com/vi/vLlbEZt-3j0/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/vLlbEZt-3j0</link>
-            <guid isPermaLink="false">1eb25909-af1c-4c23-a7d2-9e07d14456c3</guid>
-            <pubDate>Thu, 03 Sep 2015 15:38:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
