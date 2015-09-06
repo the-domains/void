@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 18:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 18:30:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[libsoundio: cross-platform audio input and output]]></title>
+            <description><![CDATA[<article><h1>libsoundio: cross-platform audio input and output</h1><p>libsoundio is a lightweight abstraction over various sound drivers. It provides a well-documented API that operates consistently regardless of the sound driver it connects to. It performs no buffering or processing on your behalf; instead exposing the raw power of the underlying backend.</p></article>]]></description>
+            <link>http://libsound.io/</link>
+            <guid isPermaLink="false">d7b1487f-8066-4b76-a43e-74207fb1afe7</guid>
+            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Is Working On A New Algorithm - Thought Vectors]]></title>
             <description><![CDATA[<article><h1>Google Is Working On A New Algorithm - Thought Vectors</h1><p>Professor Geoff Hinton, who was hired by Google two years ago to develop intelligent operating systems, said that the company is on the brink of developing algorithms with the capacity for logic, natural conversation and even flirtation.</p><img src="https://cdn1.wtvox.com/wp-content/uploads/os1-wt-vox-artificial-intellgence-google.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://motherboard.vice.com/de/read/20-jahre-c-base-die-geschichte-des-futuristischsten-hackerspace-der-welt</link>
             <guid isPermaLink="false">e512f5b3-dd5e-40ee-a4a4-fc082e8b87d3</guid>
             <pubDate>Thu, 03 Sep 2015 15:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CCCamp 2015 (123)]]></title>
-            <description><![CDATA[<article><h1>CCCamp 2015 (123)</h1><img src="https://farm1.staticflickr.com/761/20002917384_8b5611e883_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/blinkenarea/20002917384/in/album-72157656744791999/</link>
-            <guid isPermaLink="false">bf5b53b7-ff0d-42e2-84f0-44a578391c26</guid>
-            <pubDate>Thu, 03 Sep 2015 15:40:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
