@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 18:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2015 19:01:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything]]></title>
+            <description><![CDATA[<article><h1>Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything</h1><p>Embed</p><img src="http://www.computervisiontalks.com/wp-content/uploads/2015/09/rbsqaJwpu6A-1024x684.jpg"></article>]]></description>
+            <link>http://www.computervisiontalks.com/demis-hassabis-ceo-deepmind-technologies-the-theory-of-everything/</link>
+            <guid isPermaLink="false">5b77299d-2f5d-48cb-8fb5-b177ad446824</guid>
+            <pubDate>Wed, 09 Sep 2015 19:00:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[libsoundio: cross-platform audio input and output]]></title>
             <description><![CDATA[<article><h1>libsoundio: cross-platform audio input and output</h1><p>libsoundio is a lightweight abstraction over various sound drivers. It provides a well-documented API that operates consistently regardless of the sound driver it connects to. It performs no buffering or processing on your behalf; instead exposing the raw power of the underlying backend.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Chaos Communication Camp 2015</h1><img src="https://c2.staticflickr.com/6/5735/20528536291_c6bf4205b8_b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/blinkenarea/sets/72157656744791999/</link>
             <guid isPermaLink="false">943d84b0-a2e1-41e2-a14f-cfe4e589a135</guid>
-            <pubDate>Thu, 03 Sep 2015 15:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt]]></title>
-            <description><![CDATA[<article><h1>20 Jahre c-base: Die Geschichte des futuristischsten Hackerspace der Welt</h1><p>Die c-base in Berlin-Mitte, das sind die Überreste einer abgestürzten, 4,5 Milliarden Jahre alten Raumstation, zumindest, wenn man der Pressemappe glaubt. Nur die Antenne der unterirdischen, scheibenförmigen Station ragt noch am Alexanderplatz aus der Erde, so die Legende-Amateure nennen sie „Fernsehturm".</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24595/1439482286454189.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/de/read/20-jahre-c-base-die-geschichte-des-futuristischsten-hackerspace-der-welt</link>
-            <guid isPermaLink="false">e512f5b3-dd5e-40ee-a4a4-fc082e8b87d3</guid>
             <pubDate>Thu, 03 Sep 2015 15:41:02 GMT</pubDate>
         </item>
     </channel>
