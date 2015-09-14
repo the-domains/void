@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 02:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 02:06:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Deep Learning Will Lead To New, Troublesome Art]]></title>
+            <description><![CDATA[<article><h1>Why Deep Learning Will Lead To New, Troublesome Art</h1><p>KREUZBERG, BERLIN, 2017 -- EXHIBITION LAUNCH OF "YES, COMPUTERS DO DREAM OF ELECTRIC SHEEP": Gallery-goers wander halls full of lifesize sculptures of sheep. Each sheep has a different, unique mutation, leading to one with six legs and another whose wool has been replaced with miniature spanners and hammers, the size of boardgame pieces, woven together in shining...</p><img src="https://mappingbabel.files.wordpress.com/2015/08/a-neural-algorithm-for-artistic-stylwe.png?w=500"></article>]]></description>
+            <link>https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/</link>
+            <guid isPermaLink="false">db8a3a6b-f217-4acd-8fe5-73028987cb20</guid>
+            <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Generating Captions]]></title>
             <description><![CDATA[<article><h1>Generating Captions</h1><p>Describing Videos with Neural Networks Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. Recent advances are starting to enable machines to describe image with sentences. This experiment uses state-of-the-art neural network systems to automatically describe the content of videos.</p><img src="https://cdn-images-1.medium.com/max/1200/1*YAd8gNr54x3suvUVDNBqFQ.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Don't Worry, Smart Machines Will Take Us With Them - Issue 28: 2050 - Nautilus</h1><p>When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us. In a recent poll, machine intelligence experts predicted that computers would gain human-level ability around the year 2050, and superhuman ability less than 30 years after.</p><img src="http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png"></article>]]></description>
             <link>http://m.nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them</link>
             <guid isPermaLink="false">3788e25a-05e4-41d0-8cab-c2f3ede078ed</guid>
-            <pubDate>Sat, 05 Sep 2015 00:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Implementing a Neural Network from Scratch - An Introduction]]></title>
-            <description><![CDATA[<article><h1>Implementing a Neural Network from Scratch - An Introduction</h1><p>Get the code: To follow along, all the code is also available as an iPython notebook on Github. In this post we will implement a simple 3-layer neural network from scratch. We won't derive all the math that's required, but I will try to give an intuitive explanation of what we are doing.</p><img src="http://www.wildml.com/wp-content/uploads/2015/09/nn-from-scratch-dataset.png"></article>]]></description>
-            <link>http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/</link>
-            <guid isPermaLink="false">d61de583-e07b-444e-a85d-94ddfc93f616</guid>
             <pubDate>Sat, 05 Sep 2015 00:30:58 GMT</pubDate>
         </item>
     </channel>
