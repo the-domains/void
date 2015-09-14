@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Sep 2015 19:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 02:06:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Collin Burger]]></title>
+            <description><![CDATA[<article><h1>Collin Burger</h1><img src="http://thisiscoll.in/wp-content/uploads/2014/02/MG_7391-304x202.jpg"></article>]]></description>
+            <link>http://thisiscoll.in/</link>
+            <guid isPermaLink="false">321a653c-fa0d-499e-ba4a-e3609851956c</guid>
+            <pubDate>Mon, 14 Sep 2015 02:05:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's time for the Permanent Web]]></title>
             <description><![CDATA[<article><h1>It's time for the Permanent Web</h1><p>HTTP is broken. It's time for the distributed, permanent web.</p><img src="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/neocitiesandipfs.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://colah.github.io/posts/2015-09-NN-Types-FP/</link>
             <guid isPermaLink="false">17b4dda4-efd0-437d-88a6-b5cdbaa4e88d</guid>
             <pubDate>Sat, 05 Sep 2015 00:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015]]></title>
-            <description><![CDATA[<article><h1>Hacker Tent City: a Photo Tour of Chaos Communication Camp 2015</h1><p>Our tent isn't even up and my friendly neighbor has already hacked his electronic name badge and, in honor of us, changed its display to a ASCII version of the VICE logo.</p><img src="http://motherboard-images.vice.com/content-images/contentimage/24790/1440021527756475.jpg"></article>]]></description>
-            <link>http://motherboard.vice.com/read/hacker-tent-city-a-photo-tour-of-chaos-communication-camp-2015</link>
-            <guid isPermaLink="false">bb1a8738-0fba-4fb9-95e5-f7d0f1ed34dc</guid>
-            <pubDate>Thu, 03 Sep 2015 15:41:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
