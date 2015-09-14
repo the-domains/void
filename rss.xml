@@ -5,11 +5,18 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 02:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 02:06:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><img src="http://tonyorrico.com/wp-content/uploads/2014/10/1-installation-W2.jpg"></article>]]></description>
+            <link>http://tonyorrico.com/</link>
+            <guid isPermaLink="false">001edcfc-5cd2-4b3d-b7ab-38049da95c43</guid>
+            <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Deep Learning Will Lead To New, Troublesome Art]]></title>
-            <description><![CDATA[<article><h1>Why Deep Learning Will Lead To New, Troublesome Art</h1><p>KREUZBERG, BERLIN, 2017 -- EXHIBITION LAUNCH OF "YES, COMPUTERS DO DREAM OF ELECTRIC SHEEP": Gallery-goers wander halls full of lifesize sculptures of sheep. Each sheep has a different, unique mutation, leading to one with six legs and another whose wool has been replaced with miniature spanners and hammers, the size of boardgame pieces, woven together in shining...</p><img src="https://mappingbabel.files.wordpress.com/2015/08/a-neural-algorithm-for-artistic-stylwe.png?w=500"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Deep Learning Will Lead To New, Troublesome Art</h1><p>KREUZBERG, BERLIN, 2017 -- EXHIBITION LAUNCH OF "YES, COMPUTERS DO DREAM OF ELECTRIC SHEEP": Gallery-goers wander halls full of lifesize sculptures of sheep. Each sheep has a different, unique mutation, leading to one with six legs and another whose wool has been replaced with miniature spanners and hammers, the size of boardgame pieces, woven together in shining...</p><img src="https://mappingbabel.files.wordpress.com/2015/08/a-neural-algorithm-for-artistic-stylwe.png"></article>]]></description>
             <link>https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/</link>
             <guid isPermaLink="false">db8a3a6b-f217-4acd-8fe5-73028987cb20</guid>
             <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
@@ -69,13 +76,6 @@
             <link>http://www.goodai.com/#!brain-simulator/c81c</link>
             <guid isPermaLink="false">75c73394-7ef6-4c09-abd3-af9f71678133</guid>
             <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Worry, Smart Machines Will Take Us With Them - Issue 28: 2050 - Nautilus]]></title>
-            <description><![CDATA[<article><h1>Don't Worry, Smart Machines Will Take Us With Them - Issue 28: 2050 - Nautilus</h1><p>When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us. In a recent poll, machine intelligence experts predicted that computers would gain human-level ability around the year 2050, and superhuman ability less than 30 years after.</p><img src="http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png"></article>]]></description>
-            <link>http://m.nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them</link>
-            <guid isPermaLink="false">3788e25a-05e4-41d0-8cab-c2f3ede078ed</guid>
-            <pubDate>Sat, 05 Sep 2015 00:30:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
