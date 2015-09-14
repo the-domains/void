@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 02:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2015 02:07:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Prediction API: a Machine Learning black box for devs]]></title>
+            <description><![CDATA[<article><h1>Google Prediction API: a Machine Learning black box for devs</h1><p>This is my third article on how to build Machine Learning models in the Cloud. I previously explored Amazon Machine Learning and Azure Machine Learning - relative newcomers in the cloud data market.</p><img src="http://cloudacademy.com/blog/wp-content/uploads/2015/05/0-dataset.png"></article>]]></description>
+            <link>http://cloudacademy.com/blog/google-prediction-api/</link>
+            <guid isPermaLink="false">448394ed-c0bd-4dba-807d-4457b50ebb09</guid>
+            <pubDate>Mon, 14 Sep 2015 02:05:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><img src="http://tonyorrico.com/wp-content/uploads/2014/10/1-installation-W2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>cireneikual</h1><p>Hello! When working on HTFE, I spend a lot of time dealing with how one properly creates SDRs (Sparse Distributed Representations, aka sparse codes) for inputs. I have recently created a semi-new method of generating sparse codes in a very fast manner that, to my knowledge, is biologically plausible.</p><img src="https://cireneikual.files.wordpress.com/2015/02/rewardincreasing.png&h=534"></article>]]></description>
             <link>https://cireneikual.wordpress.com/</link>
             <guid isPermaLink="false">1915f44c-a759-4c57-9c7e-bcf051512fd2</guid>
-            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GoodAI | Brain Simulator]]></title>
-            <description><![CDATA[<article><h1>GoodAI | Brain Simulator</h1><p>Design your own AI brain on Brain Simulator: Click here to download our installer or access the project on GitHub. Please note that using Brain Simulator requires an nVIDIA CUDA-enabled graphics card and 64-bit Windows. You can also check out our Brain Simulator release notes and Brain Simulator documentation.</p><img src="http://i3.ytimg.com/vi/froJfzmwj18/hqdefault.jpg"></article>]]></description>
-            <link>http://www.goodai.com/#!brain-simulator/c81c</link>
-            <guid isPermaLink="false">75c73394-7ef6-4c09-abd3-af9f71678133</guid>
             <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
         </item>
     </channel>
