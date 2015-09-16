@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 02:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 14:43:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside The Mind That Built Google Brain: On Life, Creativity, And Failure]]></title>
+            <description><![CDATA[<article><h1>Inside The Mind That Built Google Brain: On Life, Creativity, And Failure</h1><p>Here's a list of universities with arguably the greatest computer science programs: Carnegie Mellon, MIT, UC Berkeley, and Stanford. These are the same places, respectively, where Andrew Ng received his bachelor's degree, his master's, his Ph.D., and has taught for 12 years.</p><img src="http://i.huffpost.com/gen/2946076/images/o-ANDREW-NG-facebook.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/2015/05/13/andrew-ng_n_7267682.html</link>
+            <guid isPermaLink="false">ae936b17-99e9-4f32-aed1-c4d2fa2033c8</guid>
+            <pubDate>Wed, 16 Sep 2015 14:43:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Prediction API: a Machine Learning black box for devs]]></title>
             <description><![CDATA[<article><h1>Google Prediction API: a Machine Learning black box for devs</h1><p>This is my third article on how to build Machine Learning models in the Cloud. I previously explored Amazon Machine Learning and Azure Machine Learning - relative newcomers in the cloud data market.</p><img src="http://cloudacademy.com/blog/wp-content/uploads/2015/05/0-dataset.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Google Is Working On A New Algorithm - Thought Vectors</h1><p>Professor Geoff Hinton, who was hired by Google two years ago to develop intelligent operating systems, said that the company is on the brink of developing algorithms with the capacity for logic, natural conversation and even flirtation.</p><img src="https://cdn1.wtvox.com/wp-content/uploads/os1-wt-vox-artificial-intellgence-google.png"></article>]]></description>
             <link>https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/?imm_mid=0d7ca5&amp;cmp=em-data-na-na-newsltr_20150902</link>
             <guid isPermaLink="false">57cb1cff-3a4c-44a7-b7ca-d84f6eef540f</guid>
-            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cireneikual]]></title>
-            <description><![CDATA[<article><h1>cireneikual</h1><p>Hello! When working on HTFE, I spend a lot of time dealing with how one properly creates SDRs (Sparse Distributed Representations, aka sparse codes) for inputs. I have recently created a semi-new method of generating sparse codes in a very fast manner that, to my knowledge, is biologically plausible.</p><img src="https://cireneikual.files.wordpress.com/2015/02/rewardincreasing.png&h=534"></article>]]></description>
-            <link>https://cireneikual.wordpress.com/</link>
-            <guid isPermaLink="false">1915f44c-a759-4c57-9c7e-bcf051512fd2</guid>
             <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
         </item>
     </channel>
