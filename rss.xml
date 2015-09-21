@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 03:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 03:28:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DeepHear - Composing and harmonizing music with neural networks]]></title>
+            <description><![CDATA[<article><h1>DeepHear - Composing and harmonizing music with neural networks</h1><p>I trained a network to generate random bars of music, based on Scott Joplin's ragtime music. It is a fully connected Deep Belief Network, set up to perform an auto-encoding task. The results sound something like this . (Warning: sound, obviously. Each snippet lasts around 17 seconds.) Or this .</p><img src="http://web.mit.edu/felixsun/www/music/rbm-layers.png"></article>]]></description>
+            <link>http://web.mit.edu/felixsun/www/neural-music.html</link>
+            <guid isPermaLink="false">ca5a8b06-33d7-4310-89f2-ab40802624c2</guid>
+            <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Software Is Smart Enough for SAT, but Still Far From Intelligent]]></title>
             <description><![CDATA[<article><h1>Software Is Smart Enough for SAT, but Still Far From Intelligent</h1><p>SEATTLE - An artificial intelligence software program capable of seeing and reading has for the first time answered geometry questions from the SAT at the level of an average 11th grader.</p><img src="http://static01.nyt.com/images/icons/t_logo_291_black.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.computervisiontalks.com/demis-hassabis-ceo-deepmind-technologies-the-theory-of-everything/</link>
             <guid isPermaLink="false">5b77299d-2f5d-48cb-8fb5-b177ad446824</guid>
             <pubDate>Wed, 09 Sep 2015 19:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[libsoundio: cross-platform audio input and output]]></title>
-            <description><![CDATA[<article><h1>libsoundio: cross-platform audio input and output</h1><p>libsoundio is a lightweight abstraction over various sound drivers. It provides a well-documented API that operates consistently regardless of the sound driver it connects to. It performs no buffering or processing on your behalf; instead exposing the raw power of the underlying backend.</p></article>]]></description>
-            <link>http://libsound.io/</link>
-            <guid isPermaLink="false">d7b1487f-8066-4b76-a43e-74207fb1afe7</guid>
-            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
