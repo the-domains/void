@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 14:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 03:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Software Is Smart Enough for SAT, but Still Far From Intelligent]]></title>
+            <description><![CDATA[<article><h1>Software Is Smart Enough for SAT, but Still Far From Intelligent</h1><p>SEATTLE - An artificial intelligence software program capable of seeing and reading has for the first time answered geometry questions from the SAT at the level of an average 11th grader.</p><img src="http://static01.nyt.com/images/icons/t_logo_291_black.png"></article>]]></description>
+            <link>http://www.nytimes.com/2015/09/21/technology/personaltech/software-is-smart-enough-for-sat-but-still-far-from-intelligent.html</link>
+            <guid isPermaLink="false">71ad06dc-b955-4b5d-b3cf-f0ada964ab8f</guid>
+            <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside The Mind That Built Google Brain: On Life, Creativity, And Failure]]></title>
             <description><![CDATA[<article><h1>Inside The Mind That Built Google Brain: On Life, Creativity, And Failure</h1><p>Here's a list of universities with arguably the greatest computer science programs: Carnegie Mellon, MIT, UC Berkeley, and Stanford. These are the same places, respectively, where Andrew Ng received his bachelor's degree, his master's, his Ph.D., and has taught for 12 years.</p><img src="http://i.huffpost.com/gen/2946076/images/o-ANDREW-NG-facebook.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>libsoundio: cross-platform audio input and output</h1><p>libsoundio is a lightweight abstraction over various sound drivers. It provides a well-documented API that operates consistently regardless of the sound driver it connects to. It performs no buffering or processing on your behalf; instead exposing the raw power of the underlying backend.</p></article>]]></description>
             <link>http://libsound.io/</link>
             <guid isPermaLink="false">d7b1487f-8066-4b76-a43e-74207fb1afe7</guid>
-            <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Is Working On A New Algorithm - Thought Vectors]]></title>
-            <description><![CDATA[<article><h1>Google Is Working On A New Algorithm - Thought Vectors</h1><p>Professor Geoff Hinton, who was hired by Google two years ago to develop intelligent operating systems, said that the company is on the brink of developing algorithms with the capacity for logic, natural conversation and even flirtation.</p><img src="https://cdn1.wtvox.com/wp-content/uploads/os1-wt-vox-artificial-intellgence-google.png"></article>]]></description>
-            <link>https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors/?imm_mid=0d7ca5&amp;cmp=em-data-na-na-newsltr_20150902</link>
-            <guid isPermaLink="false">57cb1cff-3a4c-44a7-b7ca-d84f6eef540f</guid>
             <pubDate>Sun, 06 Sep 2015 18:29:56 GMT</pubDate>
         </item>
     </channel>
