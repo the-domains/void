@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 03:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 03:29:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning]]></title>
+            <description><![CDATA[<article><h1>Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning</h1><p>It is again and again amazing to see how much speedup you get when you use GPUs for deep learning: Compared to CPUs 10x speedups are typical, but on larger problems one can achieve 20x speedups. With GPUs you can try out new ideas, algorithms and experiments much faster than usual and get almost immediate feedback as to what works and what does not.</p><img src="https://timdettmers.files.wordpress.com/2014/08/gpu-pic.jpg?w=700&h=366"></article>]]></description>
+            <link>https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/</link>
+            <guid isPermaLink="false">7e1cb4c6-da07-4152-9370-90a42406e269</guid>
+            <pubDate>Mon, 21 Sep 2015 03:28:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2013 15" Macbook Pro GT750M + GTX780Ti@16Gbps-TB2 (Sonnet III-D) + Win8.1 [squinks]]]></title>
             <description><![CDATA[<article><h1>2013 15" Macbook Pro GT750M + GTX780Ti@16Gbps-TB2 (Sonnet III-D) + Win8.1 [squinks]</h1><p>Hi everyone. New to Tech Inferno. You can call me Stu. Nando asked me to post my setup and results which I'm happy to do. I'm going to keep this as</p><img src="http://static07.techinferno.com/wp-content/uploads/2011/02/TiNewFavIcon1.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Generating Captions</h1><p>Describing Videos with Neural Networks Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. Recent advances are starting to enable machines to describe image with sentences. This experiment uses state-of-the-art neural network systems to automatically describe the content of videos.</p><img src="https://cdn-images-1.medium.com/max/1200/1*YAd8gNr54x3suvUVDNBqFQ.jpeg"></article>]]></description>
             <link>https://medium.com/@samim/generating-captions-c31f00e8396e</link>
             <guid isPermaLink="false">8c9c7364-e9d5-4070-8641-fac7520e24b2</guid>
-            <pubDate>Mon, 14 Sep 2015 02:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collin Burger]]></title>
-            <description><![CDATA[<article><h1>Collin Burger</h1><img src="http://thisiscoll.in/wp-content/uploads/2014/02/MG_7391-304x202.jpg"></article>]]></description>
-            <link>http://thisiscoll.in/</link>
-            <guid isPermaLink="false">321a653c-fa0d-499e-ba4a-e3609851956c</guid>
             <pubDate>Mon, 14 Sep 2015 02:05:48 GMT</pubDate>
         </item>
     </channel>
