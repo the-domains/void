@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 03:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2015 19:39:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[the morning paper]]></title>
+            <description><![CDATA[<article><h1>the morning paper</h1><p>an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer</p><img src="http://0.gravatar.com/blavatar/09326a066a08237015d6b84f026d36ae?s=200&ts=1442844399"></article>]]></description>
+            <link>http://blog.acolyer.org/</link>
+            <guid isPermaLink="false">d900625e-eb6b-49cd-964e-1d8b818120ce</guid>
+            <pubDate>Mon, 21 Sep 2015 19:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning]]></title>
             <description><![CDATA[<article><h1>Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning</h1><p>It is again and again amazing to see how much speedup you get when you use GPUs for deep learning: Compared to CPUs 10x speedups are typical, but on larger problems one can achieve 20x speedups. With GPUs you can try out new ideas, algorithms and experiments much faster than usual and get almost immediate feedback as to what works and what does not.</p><img src="https://timdettmers.files.wordpress.com/2014/08/gpu-pic.jpg?w=700&h=366"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/</link>
             <guid isPermaLink="false">db8a3a6b-f217-4acd-8fe5-73028987cb20</guid>
             <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generating Captions]]></title>
-            <description><![CDATA[<article><h1>Generating Captions</h1><p>Describing Videos with Neural Networks Automatically describing the content of an image is a fundamental problem in artificial intelligence that connects computer vision and natural language processing. Recent advances are starting to enable machines to describe image with sentences. This experiment uses state-of-the-art neural network systems to automatically describe the content of videos.</p><img src="https://cdn-images-1.medium.com/max/1200/1*YAd8gNr54x3suvUVDNBqFQ.jpeg"></article>]]></description>
-            <link>https://medium.com/@samim/generating-captions-c31f00e8396e</link>
-            <guid isPermaLink="false">8c9c7364-e9d5-4070-8641-fac7520e24b2</guid>
-            <pubDate>Mon, 14 Sep 2015 02:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
