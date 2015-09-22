@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 20:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 20:55:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Beginner's Guide to Deep Neural Networks]]></title>
+            <description><![CDATA[<article><h1>A Beginner's Guide to Deep Neural Networks</h1><p>Last year, we (a couple of people who knew nothing about how voice search works) set out to make a video about the research that's gone into teaching computers to recognize speech and understand language. Making the video was eye-opening and brain-opening.</p><img src="https://img.youtube.com/vi/bHvf7Tagt18/default.jpg"></article>]]></description>
+            <link>http://googleresearch.blogspot.com.br/2015/09/a-beginners-guide-to-deep-neural.html</link>
+            <guid isPermaLink="false">9b6c62c2-70bc-4ca4-8f3d-73f57f4494ef</guid>
+            <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This City - Audio-visual performance of a simulated world]]></title>
             <description><![CDATA[<article><h1>This City - Audio-visual performance of a simulated world</h1><p>Created and performed by Mark Wheeler (aka Mark Eats), This City is an audio-visual performance that explores what happens when a soundtrack controls the world as much as the world influences its soundtrack. The project is a combination of a soundtrack and real­time generative visuals, both played live.</p><img src="http://www.creativeapplications.net/wp-content/uploads/2015/09/this-city-04.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>DeepHear - Composing and harmonizing music with neural networks</h1><p>I trained a network to generate random bars of music, based on Scott Joplin's ragtime music. It is a fully connected Deep Belief Network, set up to perform an auto-encoding task. The results sound something like this . (Warning: sound, obviously. Each snippet lasts around 17 seconds.) Or this .</p><img src="http://web.mit.edu/felixsun/www/music/rbm-layers.png"></article>]]></description>
             <link>http://web.mit.edu/felixsun/www/neural-music.html</link>
             <guid isPermaLink="false">ca5a8b06-33d7-4310-89f2-ab40802624c2</guid>
-            <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Software Is Smart Enough for SAT, but Still Far From Intelligent]]></title>
-            <description><![CDATA[<article><h1>Software Is Smart Enough for SAT, but Still Far From Intelligent</h1><p>SEATTLE - An artificial intelligence software program capable of seeing and reading has for the first time answered geometry questions from the SAT at the level of an average 11th grader.</p><img src="http://static01.nyt.com/images/icons/t_logo_291_black.png"></article>]]></description>
-            <link>http://www.nytimes.com/2015/09/21/technology/personaltech/software-is-smart-enough-for-sat-but-still-far-from-intelligent.html</link>
-            <guid isPermaLink="false">71ad06dc-b955-4b5d-b3cf-f0ada964ab8f</guid>
             <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
         </item>
     </channel>
