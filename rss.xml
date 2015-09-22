@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 19:42:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 19:42:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The State of Artificial Intelligence in Six Visuals]]></title>
+            <description><![CDATA[<article><h1>The State of Artificial Intelligence in Six Visuals</h1><p>We cover many emerging markets in the startup ecosystem. Previously, we published posts that summarized Financial Technology, Internet of Things, Bitcoin, and MarTech in six visuals. This week, we do the same with Artificial Intelligence (AI). At this time, we are tracking 855 AI companies across 13 categories, with a combined funding amount of $8.75 billion....</p><img src="https://venturescannerinsights.files.wordpress.com/2015/09/ai1.jpeg?w=883&h=612"></article>]]></description>
+            <link>http://insights.venturescanner.com/2015/09/04/the-state-of-artificial-intelligence-in-six-visuals/</link>
+            <guid isPermaLink="false">e103b2a3-7f0b-49b5-8318-32bcd969048d</guid>
+            <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Periods of PicassoShort GIF put together...]]></title>
             <description><![CDATA[<article><h1>Periods of PicassoShort GIF put together...</h1><p>Periods of PicassoShort GIF put together by Gene Kogan transforms a piece of footage of the artist using the StyleNet neural network technique, based on his well known periodic styles:style interpolation of pablo picasso through his blue, african, and cubist periods. You can view the original GIF here</p><img src="http://38.media.tumblr.com/91f7849388a1b7b7507aa0bba4c10028/tumblr_nv1h5nzstw1qav3uso1_500.gif"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.huffingtonpost.com/2015/05/13/andrew-ng_n_7267682.html</link>
             <guid isPermaLink="false">ae936b17-99e9-4f32-aed1-c4d2fa2033c8</guid>
             <pubDate>Wed, 16 Sep 2015 14:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google Prediction API: a Machine Learning black box for devs]]></title>
-            <description><![CDATA[<article><h1>Google Prediction API: a Machine Learning black box for devs</h1><p>This is my third article on how to build Machine Learning models in the Cloud. I previously explored Amazon Machine Learning and Azure Machine Learning - relative newcomers in the cloud data market.</p><img src="http://cloudacademy.com/blog/wp-content/uploads/2015/05/0-dataset.png"></article>]]></description>
-            <link>http://cloudacademy.com/blog/google-prediction-api/</link>
-            <guid isPermaLink="false">448394ed-c0bd-4dba-807d-4457b50ebb09</guid>
-            <pubDate>Mon, 14 Sep 2015 02:05:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
