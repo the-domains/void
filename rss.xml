@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Sep 2015 19:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 19:41:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inside Facebook's Artificial Intelligence Lab]]></title>
+            <description><![CDATA[<article><h1>Inside Facebook's Artificial Intelligence Lab</h1><p>Facebook is using our data to build the 'world's best' Artificial Intelligence lab Facebook is using our data to build the 'world's best' Artificial Intelligence lab It's time to stop thinking about Facebook as just a social media company.</p><img src="http://www.popsci.com/sites/popsci.com/files/custom-touts/2015/09/facebook-ai-eyes-1.jpg"></article>]]></description>
+            <link>http://www.popsci.com/facebook-ai</link>
+            <guid isPermaLink="false">401eba7a-455a-4f9b-829c-f9c57dd5889a</guid>
+            <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[the morning paper]]></title>
             <description><![CDATA[<article><h1>the morning paper</h1><p>an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer</p><img src="http://0.gravatar.com/blavatar/09326a066a08237015d6b84f026d36ae?s=200&ts=1442844399"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Home</h1><img src="http://tonyorrico.com/wp-content/uploads/2014/10/1-installation-W2.jpg"></article>]]></description>
             <link>http://tonyorrico.com/</link>
             <guid isPermaLink="false">001edcfc-5cd2-4b3d-b7ab-38049da95c43</guid>
-            <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Deep Learning Will Lead To New, Troublesome Art]]></title>
-            <description><![CDATA[<article><h1>Why Deep Learning Will Lead To New, Troublesome Art</h1><p>KREUZBERG, BERLIN, 2017 -- EXHIBITION LAUNCH OF "YES, COMPUTERS DO DREAM OF ELECTRIC SHEEP": Gallery-goers wander halls full of lifesize sculptures of sheep. Each sheep has a different, unique mutation, leading to one with six legs and another whose wool has been replaced with miniature spanners and hammers, the size of boardgame pieces, woven together in shining...</p><img src="https://mappingbabel.files.wordpress.com/2015/08/a-neural-algorithm-for-artistic-stylwe.png"></article>]]></description>
-            <link>https://mappingbabel.wordpress.com/2015/08/30/why-deep-learning-will-lead-to-new-troublesome-art/</link>
-            <guid isPermaLink="false">db8a3a6b-f217-4acd-8fe5-73028987cb20</guid>
             <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
         </item>
     </channel>
