@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 19:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 19:42:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Periods of PicassoShort GIF put together...]]></title>
+            <description><![CDATA[<article><h1>Periods of PicassoShort GIF put together...</h1><p>Periods of PicassoShort GIF put together by Gene Kogan transforms a piece of footage of the artist using the StyleNet neural network technique, based on his well known periodic styles:style interpolation of pablo picasso through his blue, african, and cubist periods. You can view the original GIF here</p><img src="http://38.media.tumblr.com/91f7849388a1b7b7507aa0bba4c10028/tumblr_nv1h5nzstw1qav3uso1_500.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/129580874146/periods-of-picasso-short-gif-put-together-by-gene</link>
+            <guid isPermaLink="false">b5339f4d-998e-4e70-b806-30227808ef44</guid>
+            <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside Facebook's Artificial Intelligence Lab]]></title>
             <description><![CDATA[<article><h1>Inside Facebook's Artificial Intelligence Lab</h1><p>Facebook is using our data to build the 'world's best' Artificial Intelligence lab Facebook is using our data to build the 'world's best' Artificial Intelligence lab It's time to stop thinking about Facebook as just a social media company.</p><img src="http://www.popsci.com/sites/popsci.com/files/custom-touts/2015/09/facebook-ai-eyes-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://cloudacademy.com/blog/google-prediction-api/</link>
             <guid isPermaLink="false">448394ed-c0bd-4dba-807d-4457b50ebb09</guid>
             <pubDate>Mon, 14 Sep 2015 02:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><img src="http://tonyorrico.com/wp-content/uploads/2014/10/1-installation-W2.jpg"></article>]]></description>
-            <link>http://tonyorrico.com/</link>
-            <guid isPermaLink="false">001edcfc-5cd2-4b3d-b7ab-38049da95c43</guid>
-            <pubDate>Mon, 14 Sep 2015 02:05:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
