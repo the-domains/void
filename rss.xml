@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 20:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 20:55:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google's Demis Hassabis - misuse of artificial intelligence 'could do harm' - BBC News]]></title>
+            <description><![CDATA[<article><h1>Google's Demis Hassabis - misuse of artificial intelligence 'could do harm' - BBC News</h1><p>It is a technology so powerful that - on a distant day well into the future - it could mean computers that are able to advise on the best way to treat patients, tackle climate change or feed the poor. With such potential power, comes huge responsibility.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/11F37/production/_85572537_cbv7xygb.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/business-34266425</link>
+            <guid isPermaLink="false">b14cbaa6-ca42-4638-949c-1c2f3f383aba</guid>
+            <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Beginner's Guide to Deep Neural Networks]]></title>
             <description><![CDATA[<article><h1>A Beginner's Guide to Deep Neural Networks</h1><p>Last year, we (a couple of people who knew nothing about how voice search works) set out to make a video about the research that's gone into teaching computers to recognize speech and understand language. Making the video was eye-opening and brain-opening.</p><img src="https://img.youtube.com/vi/bHvf7Tagt18/default.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Welcome to hell: Apple vs Google vs Facebook and the slow death of the web</h1><p>So let's talk about ad blocking. You might think the conversation about ad blocking is about the user experience of news, but what we're really talking about is money and power in Silicon Valley. And titanic battles between large companies with lots of money and power tend to have a lot of collateral damage.</p><img src="https://cdn0.vox-cdn.com/thumbor/MbNJvzi10F8H1xWr6IusAI9xthA=/0x31:600x369/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47204208/default-new.12.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2015/9/17/9338963/welcome-to-hell-apple-vs-google-vs-facebook-and-the-slow-death-of-the-web</link>
             <guid isPermaLink="false">9887bb02-6589-4bd9-8153-00f602804a24</guid>
-            <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DeepHear - Composing and harmonizing music with neural networks]]></title>
-            <description><![CDATA[<article><h1>DeepHear - Composing and harmonizing music with neural networks</h1><p>I trained a network to generate random bars of music, based on Scott Joplin's ragtime music. It is a fully connected Deep Belief Network, set up to perform an auto-encoding task. The results sound something like this . (Warning: sound, obviously. Each snippet lasts around 17 seconds.) Or this .</p><img src="http://web.mit.edu/felixsun/www/music/rbm-layers.png"></article>]]></description>
-            <link>http://web.mit.edu/felixsun/www/neural-music.html</link>
-            <guid isPermaLink="false">ca5a8b06-33d7-4310-89f2-ab40802624c2</guid>
             <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
         </item>
     </channel>
