@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 16:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 16:33:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building a Deep Learning (Dream) Machine]]></title>
+            <description><![CDATA[<article><h1>Building a Deep Learning (Dream) Machine</h1><p>As a PhD student in Deep Learning, as well as running my own consultancy, building machine learning products for clients I'm used to working in the cloud and will keep doing so for production-oriented systems/algorithms. There are however huge drawbacks to cloud-based systems for more research oriented tasks where you mainly want to try out various algorithms and architectures, to iterate and move fast.</p><img src="http://graphific.github.io/images/dlpc/1_building.jpg"></article>]]></description>
+            <link>http://graphific.github.io/posts/building-a-deep-learning-dream-machine/</link>
+            <guid isPermaLink="false">e18d2cfd-cd41-4f9f-841c-3b2e2c698ea0</guid>
+            <pubDate>Wed, 23 Sep 2015 16:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exploring the Darker Side of Fashion]]></title>
             <description><![CDATA[<article><h1>Exploring the Darker Side of Fashion</h1><p>Carol Christian Poell In Linz, Austria, a new exhibition explores the darker side of fashion since the 1980s, when the likes of Alexander McQueen, Martin Margiela, and Rei Kawakubo started following melancholic tendencies that had hitherto been reserved for the other visual arts and literature.</p><img src="http://hintmagazine.vaesite.net/__data/fashion-and-mortality-7-fb.2.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/</link>
             <guid isPermaLink="false">7e1cb4c6-da07-4152-9370-90a42406e269</guid>
             <pubDate>Mon, 21 Sep 2015 03:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2013 15" Macbook Pro GT750M + GTX780Ti@16Gbps-TB2 (Sonnet III-D) + Win8.1 [squinks]]]></title>
-            <description><![CDATA[<article><h1>2013 15" Macbook Pro GT750M + GTX780Ti@16Gbps-TB2 (Sonnet III-D) + Win8.1 [squinks]</h1><p>Hi everyone. New to Tech Inferno. You can call me Stu. Nando asked me to post my setup and results which I'm happy to do. I'm going to keep this as</p><img src="http://static07.techinferno.com/wp-content/uploads/2011/02/TiNewFavIcon1.png"></article>]]></description>
-            <link>http://forum.techinferno.com/implementation-guides-apple/6689-2013-15-macbook-pro-gt750m-gtx780ti%4016gbps-tb2-sonnet-iii-d-win8-1-%5Bsquinks%5D.html</link>
-            <guid isPermaLink="false">f263f5d3-518e-498c-b1c7-ccbe507463ef</guid>
-            <pubDate>Mon, 21 Sep 2015 03:28:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
