@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 16:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 16:35:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Debauched Disco: Gareth Pugh Spring 2016]]></title>
+            <description><![CDATA[<article><h1>Debauched Disco: Gareth Pugh Spring 2016</h1><p>Copyright Hint Fashion Magazine, LLC. All Rights Reserved. No part of any information or images located within this website may be reproduced, stored in a retrieval system, or transmitted in any form or by any means elecronic, mechanical, photocopying, recording or otherwise without the express written permission of the copyright owner.</p><img src="http://hintmag.com/__data/6aa5327a2f1989ce503336c0a469dae3.jpg"></article>]]></description>
+            <link>http://hintmag.com/post/gareth-pugh-spring-2016--september-22-2015-1419</link>
+            <guid isPermaLink="false">c4e3d9a8-aafa-4bf3-b1df-c276cf76e07e</guid>
+            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Happens Next Will Amaze You]]></title>
             <description><![CDATA[<article><h1>What Happens Next Will Amaze You</h1><p>Soon the web was infested with all manner of trackers, beacons, pixels, tracking cookies and bugs. Companies learned to pool their data so they could follow customers across many sites. They created user profiles of everyone using the web.</p><img src="https://static.pinboard.in/whn/thumbs/whn.010.thumb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Periods of PicassoShort GIF put together...</h1><p>Periods of PicassoShort GIF put together by Gene Kogan transforms a piece of footage of the artist using the StyleNet neural network technique, based on his well known periodic styles:style interpolation of pablo picasso through his blue, african, and cubist periods. You can view the original GIF here</p><img src="http://38.media.tumblr.com/91f7849388a1b7b7507aa0bba4c10028/tumblr_nv1h5nzstw1qav3uso1_500.gif"></article>]]></description>
             <link>http://prostheticknowledge.tumblr.com/post/129580874146/periods-of-picasso-short-gif-put-together-by-gene</link>
             <guid isPermaLink="false">b5339f4d-998e-4e70-b806-30227808ef44</guid>
-            <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Facebook's Artificial Intelligence Lab]]></title>
-            <description><![CDATA[<article><h1>Inside Facebook's Artificial Intelligence Lab</h1><p>Facebook is using our data to build the 'world's best' Artificial Intelligence lab Facebook is using our data to build the 'world's best' Artificial Intelligence lab It's time to stop thinking about Facebook as just a social media company.</p><img src="http://www.popsci.com/sites/popsci.com/files/custom-touts/2015/09/facebook-ai-eyes-1.jpg"></article>]]></description>
-            <link>http://www.popsci.com/facebook-ai</link>
-            <guid isPermaLink="false">401eba7a-455a-4f9b-829c-f9c57dd5889a</guid>
             <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
         </item>
     </channel>
