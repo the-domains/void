@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 16:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 16:35:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Happens Next Will Amaze You]]></title>
+            <description><![CDATA[<article><h1>What Happens Next Will Amaze You</h1><p>Soon the web was infested with all manner of trackers, beacons, pixels, tracking cookies and bugs. Companies learned to pool their data so they could follow customers across many sites. They created user profiles of everyone using the web.</p><img src="https://static.pinboard.in/whn/thumbs/whn.010.thumb.jpg"></article>]]></description>
+            <link>http://idlewords.com/talks/what_happens_next_will_amaze_you.htm</link>
+            <guid isPermaLink="false">1e24c242-9691-4d59-afe4-7347289de715</guid>
+            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Torch | Recurrent Model of Visual Attention]]></title>
             <description><![CDATA[<article><h1>Torch | Recurrent Model of Visual Attention</h1><p>In this blog post, I want to discuss how we at Element-Research implemented the recurrent attention model (RAM) described in[1]. Not only were we able to reproduce the paper, but we also made of bunch of modular code available in the process. You can reproduce the RAM on the MNIST dataset using this training script.</p><img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.popsci.com/facebook-ai</link>
             <guid isPermaLink="false">401eba7a-455a-4f9b-829c-f9c57dd5889a</guid>
             <pubDate>Tue, 22 Sep 2015 19:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the morning paper]]></title>
-            <description><![CDATA[<article><h1>the morning paper</h1><p>an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer</p><img src="http://0.gravatar.com/blavatar/09326a066a08237015d6b84f026d36ae?s=200&ts=1442844399"></article>]]></description>
-            <link>http://blog.acolyer.org/</link>
-            <guid isPermaLink="false">d900625e-eb6b-49cd-964e-1d8b818120ce</guid>
-            <pubDate>Mon, 21 Sep 2015 19:39:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
