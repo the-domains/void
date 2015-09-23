@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 16:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2015 16:34:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Torch | Recurrent Model of Visual Attention]]></title>
+            <description><![CDATA[<article><h1>Torch | Recurrent Model of Visual Attention</h1><p>In this blog post, I want to discuss how we at Element-Research implemented the recurrent attention model (RAM) described in[1]. Not only were we able to reproduce the paper, but we also made of bunch of modular code available in the process. You can reproduce the RAM on the MNIST dataset using this training script.</p><img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png"></article>]]></description>
+            <link>http://torch.ch/blog/2015/09/21/rmva.html</link>
+            <guid isPermaLink="false">d9cd5a7b-4f58-4efd-85ef-843338d2ecdf</guid>
+            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building a Deep Learning (Dream) Machine]]></title>
             <description><![CDATA[<article><h1>Building a Deep Learning (Dream) Machine</h1><p>As a PhD student in Deep Learning, as well as running my own consultancy, building machine learning products for clients I'm used to working in the cloud and will keep doing so for production-oriented systems/algorithms. There are however huge drawbacks to cloud-based systems for more research oriented tasks where you mainly want to try out various algorithms and architectures, to iterate and move fast.</p><img src="http://graphific.github.io/images/dlpc/1_building.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.acolyer.org/</link>
             <guid isPermaLink="false">d900625e-eb6b-49cd-964e-1d8b818120ce</guid>
             <pubDate>Mon, 21 Sep 2015 19:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning]]></title>
-            <description><![CDATA[<article><h1>Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning</h1><p>It is again and again amazing to see how much speedup you get when you use GPUs for deep learning: Compared to CPUs 10x speedups are typical, but on larger problems one can achieve 20x speedups. With GPUs you can try out new ideas, algorithms and experiments much faster than usual and get almost immediate feedback as to what works and what does not.</p><img src="https://timdettmers.files.wordpress.com/2014/08/gpu-pic.jpg?w=700&h=366"></article>]]></description>
-            <link>https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/</link>
-            <guid isPermaLink="false">7e1cb4c6-da07-4152-9370-90a42406e269</guid>
-            <pubDate>Mon, 21 Sep 2015 03:28:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
