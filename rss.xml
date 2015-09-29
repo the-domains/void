@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethical Machines]]></title>
+            <description><![CDATA[<article><h1>Ethical Machines</h1><p>For the third episode of Ethical Machines, we had the pleasure of talking with Alex J. Champandard and Gene Kogan. Alex has a background in AI and computer games. Recently, he has been experimenting with Stylenet with his twitter bot "DeepForger". Gene is a programmer and artist who is interested in generative systems & machine learning.</p></article>]]></description>
+            <link>http://ethicalmachines.com/</link>
+            <guid isPermaLink="false">5923447e-bbb2-44e7-8579-296c94c3ee07</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On how programmers involuntarily become managers]]></title>
             <description><![CDATA[<article><h1>On how programmers involuntarily become managers</h1><p>Something that I've noticed in the software industry is that many people will, at one point, state that they have no interest in becoming managers, only to reach out for the positions a few years later. Now that I'm in my 30s, I see why this is the case, and I can explain it.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://torch.ch/blog/2015/09/21/rmva.html</link>
             <guid isPermaLink="false">d9cd5a7b-4f58-4efd-85ef-843338d2ecdf</guid>
             <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a Deep Learning (Dream) Machine]]></title>
-            <description><![CDATA[<article><h1>Building a Deep Learning (Dream) Machine</h1><p>As a PhD student in Deep Learning, as well as running my own consultancy, building machine learning products for clients I'm used to working in the cloud and will keep doing so for production-oriented systems/algorithms. There are however huge drawbacks to cloud-based systems for more research oriented tasks where you mainly want to try out various algorithms and architectures, to iterate and move fast.</p><img src="http://graphific.github.io/images/dlpc/1_building.jpg"></article>]]></description>
-            <link>http://graphific.github.io/posts/building-a-deep-learning-dream-machine/</link>
-            <guid isPermaLink="false">e18d2cfd-cd41-4f9f-841c-3b2e2c698ea0</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
