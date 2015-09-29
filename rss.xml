@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's impossible for someone to build a super-intelligent robot in their basement]]></title>
+            <description><![CDATA[<article><h1>It's impossible for someone to build a super-intelligent robot in their basement</h1><p>Science fiction movies, like "Metropolis" and the more recent "Ex Machina," often depict lonely researchers toiling away in secret labs developing super-intelligent, sophisticated robots.</p><img src="http://static5.businessinsider.com/image/5602a529dd0895d3178b4652/its-impossible-for-someone-to-build-a-super-intelligent-robot-in-their-basement.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/could-a-loner-scientist-build-world-changing-artificial-intelligence-2015-9</link>
+            <guid isPermaLink="false">7dc13f46-e2a5-4562-a41b-ee990603d027</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is 'Post-digital'?]]></title>
             <description><![CDATA[<article><h1>What is 'Post-digital'?</h1><p>Florian Cramer. Reader, Creating 010, Hogeschool Rotterdam In January 2013, a picture of a young man typing on a mechanical typewriter while sitting on a park bench went 'viral' on the popular website Reddit.</p><img src="http://www.aprja.net/wp-content/uploads/2014/01/digital.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Debauched Disco: Gareth Pugh Spring 2016</h1><p>Copyright Hint Fashion Magazine, LLC. All Rights Reserved. No part of any information or images located within this website may be reproduced, stored in a retrieval system, or transmitted in any form or by any means elecronic, mechanical, photocopying, recording or otherwise without the express written permission of the copyright owner.</p><img src="http://hintmag.com/__data/6aa5327a2f1989ce503336c0a469dae3.jpg"></article>]]></description>
             <link>http://hintmag.com/post/gareth-pugh-spring-2016--september-22-2015-1419</link>
             <guid isPermaLink="false">c4e3d9a8-aafa-4bf3-b1df-c276cf76e07e</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens Next Will Amaze You]]></title>
-            <description><![CDATA[<article><h1>What Happens Next Will Amaze You</h1><p>Soon the web was infested with all manner of trackers, beacons, pixels, tracking cookies and bugs. Companies learned to pool their data so they could follow customers across many sites. They created user profiles of everyone using the web.</p><img src="https://static.pinboard.in/whn/thumbs/whn.010.thumb.jpg"></article>]]></description>
-            <link>http://idlewords.com/talks/what_happens_next_will_amaze_you.htm</link>
-            <guid isPermaLink="false">1e24c242-9691-4d59-afe4-7347289de715</guid>
             <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
         </item>
     </channel>
