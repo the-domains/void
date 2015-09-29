@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:35:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is 'Post-digital'?]]></title>
+            <description><![CDATA[<article><h1>What is 'Post-digital'?</h1><p>Florian Cramer. Reader, Creating 010, Hogeschool Rotterdam In January 2013, a picture of a young man typing on a mechanical typewriter while sitting on a park bench went 'viral' on the popular website Reddit.</p><img src="http://www.aprja.net/wp-content/uploads/2014/01/digital.png"></article>]]></description>
+            <link>http://www.aprja.net/?p=1318</link>
+            <guid isPermaLink="false">c90d381f-3adc-400c-8518-62df29bd23a4</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ethical Machines]]></title>
             <description><![CDATA[<article><h1>Ethical Machines</h1><p>For the third episode of Ethical Machines, we had the pleasure of talking with Alex J. Champandard and Gene Kogan. Alex has a background in AI and computer games. Recently, he has been experimenting with Stylenet with his twitter bot "DeepForger". Gene is a programmer and artist who is interested in generative systems & machine learning.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>What Happens Next Will Amaze You</h1><p>Soon the web was infested with all manner of trackers, beacons, pixels, tracking cookies and bugs. Companies learned to pool their data so they could follow customers across many sites. They created user profiles of everyone using the web.</p><img src="https://static.pinboard.in/whn/thumbs/whn.010.thumb.jpg"></article>]]></description>
             <link>http://idlewords.com/talks/what_happens_next_will_amaze_you.htm</link>
             <guid isPermaLink="false">1e24c242-9691-4d59-afe4-7347289de715</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Torch | Recurrent Model of Visual Attention]]></title>
-            <description><![CDATA[<article><h1>Torch | Recurrent Model of Visual Attention</h1><p>In this blog post, I want to discuss how we at Element-Research implemented the recurrent attention model (RAM) described in[1]. Not only were we able to reproduce the paper, but we also made of bunch of modular code available in the process. You can reproduce the RAM on the MNIST dataset using this training script.</p><img src="https://raw.githubusercontent.com/torch/torch.github.io/master/blog/_posts/images/rva-diagram.png"></article>]]></description>
-            <link>http://torch.ch/blog/2015/09/21/rmva.html</link>
-            <guid isPermaLink="false">d9cd5a7b-4f58-4efd-85ef-843338d2ecdf</guid>
             <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
         </item>
     </channel>
