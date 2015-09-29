@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Sep 2015 16:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:34:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Real-time Resizing of Flickr Images Using GPUs]]></title>
+            <description><![CDATA[<article><h1>Real-time Resizing of Flickr Images Using GPUs</h1><p>At Flickr we work with a huge number of photos. Our users upload over 27 million photos a day, and our total collection has over 12 billion photos. This is fantastic! As usage grows, we are always looking for ways to use our storage more efficiently.</p><img src="https://farm1.staticflickr.com/297/19130003555_8a1896d66e_o.png"></article>]]></description>
+            <link>http://code.flickr.net/2015/06/25/real-time-resizing-of-flickr-images-using-gpus/</link>
+            <guid isPermaLink="false">7f292930-4e46-432b-a90d-eb84f0044319</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Projeto Casa Rodante: Cidadania nas ruas da Luz]]></title>
             <description><![CDATA[<article><h1>Projeto Casa Rodante: Cidadania nas ruas da Luz</h1><p>O projeto Casa Rodante, desenvolvido pelo coletivo artístico casadalapa em parceria com a Secretaria de Direitos Humanos e Cidadania de São Paulo, é uma iniciativa artística e social que tem como cenário a região da Luz, no centro da cidade de São Paulo.</p><img src="http://images.adsttc.com/media/images/5508/4b3c/e58e/ce8c/ad00/0002/large_jpg/DSC_0306_(Custom).jpg?1426606902"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>A Beginner's Guide to Deep Neural Networks</h1><p>Last year, we (a couple of people who knew nothing about how voice search works) set out to make a video about the research that's gone into teaching computers to recognize speech and understand language. Making the video was eye-opening and brain-opening.</p><img src="https://img.youtube.com/vi/bHvf7Tagt18/default.jpg"></article>]]></description>
             <link>http://googleresearch.blogspot.com.br/2015/09/a-beginners-guide-to-deep-neural.html</link>
             <guid isPermaLink="false">9b6c62c2-70bc-4ca4-8f3d-73f57f4494ef</guid>
-            <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This City - Audio-visual performance of a simulated world]]></title>
-            <description><![CDATA[<article><h1>This City - Audio-visual performance of a simulated world</h1><p>Created and performed by Mark Wheeler (aka Mark Eats), This City is an audio-visual performance that explores what happens when a soundtrack controls the world as much as the world influences its soundtrack. The project is a combination of a soundtrack and real­time generative visuals, both played live.</p><img src="http://www.creativeapplications.net/wp-content/uploads/2015/09/this-city-04.jpg"></article>]]></description>
-            <link>http://www.creativeapplications.net/openframeworks/this-city-audio-visual-performance-of-a-simulated-world/</link>
-            <guid isPermaLink="false">6f7e4af0-b732-4c30-b4ab-09759bade7bc</guid>
             <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
         </item>
     </channel>
