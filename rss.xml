@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:34:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep learning - Convolutional neural networks and feature extraction with Python]]></title>
+            <description><![CDATA[<article><h1>Deep learning - Convolutional neural networks and feature extraction with Python</h1><p>Convolutional neural networks (or ConvNets) are biologically-inspired variants of MLPs, they have different kinds of layers and each different layer works different than the usual MLP layers. If you are interested in learning more about ConvNets, a good course is the CS231n - Convolutional Neural Newtorks for Visual Recognition.</p><img src="http://blog.christianperone.com/wp-content/uploads/2015/08/neural_net2.jpeg"></article>]]></description>
+            <link>http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/</link>
+            <guid isPermaLink="false">efcc7b62-4a5e-422f-9b6d-35bc475f3ffc</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Real-time Resizing of Flickr Images Using GPUs]]></title>
             <description><![CDATA[<article><h1>Real-time Resizing of Flickr Images Using GPUs</h1><p>At Flickr we work with a huge number of photos. Our users upload over 27 million photos a day, and our total collection has over 12 billion photos. This is fantastic! As usage grows, we are always looking for ways to use our storage more efficiently.</p><img src="https://farm1.staticflickr.com/297/19130003555_8a1896d66e_o.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Google's Demis Hassabis - misuse of artificial intelligence 'could do harm' - BBC News</h1><p>It is a technology so powerful that - on a distant day well into the future - it could mean computers that are able to advise on the best way to treat patients, tackle climate change or feed the poor. With such potential power, comes huge responsibility.</p><img src="http://ichef.bbci.co.uk/news/1024/cpsprodpb/11F37/production/_85572537_cbv7xygb.jpg"></article>]]></description>
             <link>http://www.bbc.com/news/business-34266425</link>
             <guid isPermaLink="false">b14cbaa6-ca42-4638-949c-1c2f3f383aba</guid>
-            <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Beginner's Guide to Deep Neural Networks]]></title>
-            <description><![CDATA[<article><h1>A Beginner's Guide to Deep Neural Networks</h1><p>Last year, we (a couple of people who knew nothing about how voice search works) set out to make a video about the research that's gone into teaching computers to recognize speech and understand language. Making the video was eye-opening and brain-opening.</p><img src="https://img.youtube.com/vi/bHvf7Tagt18/default.jpg"></article>]]></description>
-            <link>http://googleresearch.blogspot.com.br/2015/09/a-beginners-guide-to-deep-neural.html</link>
-            <guid isPermaLink="false">9b6c62c2-70bc-4ca4-8f3d-73f57f4494ef</guid>
             <pubDate>Tue, 22 Sep 2015 20:54:39 GMT</pubDate>
         </item>
     </channel>
