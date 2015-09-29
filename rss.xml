@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:35:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[vorpalsound]]></title>
+            <description><![CDATA[<article><h1>vorpalsound</h1><p>Hi. After a while, I'm back with a new tutorial. This post's concept is really simple: A basic field recording, minimally edited with CDP, chopped up, and processed live inside Redux. But even such a modest setup can yield a lot of cool sounds, just by using fundamental processing techniques.</p><img src="http://vorpalsound.com/wp-content/uploads/2015/08/vs22-620x620.jpg"></article>]]></description>
+            <link>http://vorpalsound.com/</link>
+            <guid isPermaLink="false">7ea5c641-9575-42e2-a7ea-d80ce0cb9138</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Making An Interactive Music Video With WebGL]]></title>
             <description><![CDATA[<article><h1>Making An Interactive Music Video With WebGL</h1><p>Making An Interactive Music Video With WebGL Or how After Effects is for chumps A couple of years ago, my band Brightly wrote a record called Beginnings & Endings . Glen Maddern and I, along with a few of our friends, built an interactive tweet-powered music video for the single Preflight Nerves, which we affectionately called Tweetflight.</p><img src="https://cdn-images-2.medium.com/max/2000/1*3oCmqeYoZYkRLSDhGcXYYw.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Projeto Casa Rodante: Cidadania nas ruas da Luz</h1><p>O projeto Casa Rodante, desenvolvido pelo coletivo artístico casadalapa em parceria com a Secretaria de Direitos Humanos e Cidadania de São Paulo, é uma iniciativa artística e social que tem como cenário a região da Luz, no centro da cidade de São Paulo.</p><img src="http://images.adsttc.com/media/images/5508/4b3c/e58e/ce8c/ad00/0002/large_jpg/DSC_0306_(Custom).jpg?1426606902"></article>]]></description>
             <link>http://www.archdaily.com.br/br/764005/casa-rodante-nil-cidadania-nas-ruas-da-luz</link>
             <guid isPermaLink="false">afdf7c67-4d4e-4ddc-a264-16af7b3838b4</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[O Canto das Mulheres do Asfalto Estimad...]]></title>
-            <description><![CDATA[<article><h1>O Canto das Mulheres do Asfalto Estimad...</h1><p>O Canto das Mulheres do Asfalto Estimada Platéia. O Canto das Mulheres do Asfalto é uma peça onde as mulheres decidem não mais ter filhos. Mas não é luta de gênero não. Não é greve de sexo não.</p><img src="http://41.media.tumblr.com/431b27cef4817d18bf2b2522b605641e/tumblr_nt3091ppH01udnmrqo1_500.jpg"></article>]]></description>
-            <link>http://poraodasartes.tumblr.com/post/126678724193/cantodasmulheresdoasfalto</link>
-            <guid isPermaLink="false">7bfbd890-8f2a-4deb-818c-5a9b8bee9e05</guid>
             <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
         </item>
     </channel>
