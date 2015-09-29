@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2015 16:35:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On how programmers involuntarily become managers]]></title>
+            <description><![CDATA[<article><h1>On how programmers involuntarily become managers</h1><p>Something that I've noticed in the software industry is that many people will, at one point, state that they have no interest in becoming managers, only to reach out for the positions a few years later. Now that I'm in my 30s, I see why this is the case, and I can explain it.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
+            <link>https://michaelochurch.wordpress.com/2015/09/24/on-how-programmers-involuntarily-become-managers/</link>
+            <guid isPermaLink="false">6614f460-8f0e-4708-a20f-e60f671d1516</guid>
+            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Literate interactive coding: Devcards" by Bruce Hauman]]></title>
             <description><![CDATA[<article><h1>"Literate interactive coding: Devcards" by Bruce Hauman</h1><p>Devcards is a ClojureScript library that is my attempt at creating a literate interactive coding style. It allows developers to interactively surface code examples into a web interface live from the source code that they are currently editing. Devcards works by surfacing a set cards which represent code examples.</p><img src="https://i.ytimg.com/vi/G7Z_g2fnEDg/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Building a Deep Learning (Dream) Machine</h1><p>As a PhD student in Deep Learning, as well as running my own consultancy, building machine learning products for clients I'm used to working in the cloud and will keep doing so for production-oriented systems/algorithms. There are however huge drawbacks to cloud-based systems for more research oriented tasks where you mainly want to try out various algorithms and architectures, to iterate and move fast.</p><img src="http://graphific.github.io/images/dlpc/1_building.jpg"></article>]]></description>
             <link>http://graphific.github.io/posts/building-a-deep-learning-dream-machine/</link>
             <guid isPermaLink="false">e18d2cfd-cd41-4f9f-841c-3b2e2c698ea0</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring the Darker Side of Fashion]]></title>
-            <description><![CDATA[<article><h1>Exploring the Darker Side of Fashion</h1><p>Carol Christian Poell In Linz, Austria, a new exhibition explores the darker side of fashion since the 1980s, when the likes of Alexander McQueen, Martin Margiela, and Rei Kawakubo started following melancholic tendencies that had hitherto been reserved for the other visual arts and literature.</p><img src="http://hintmagazine.vaesite.net/__data/fashion-and-mortality-7-fb.2.jpg"></article>]]></description>
-            <link>http://hintmag.com/post/exploring-the-darker-side-of-fashion--march-22-2015-1440#at_pco=smlre-1.0&amp;at_si=5602b780a377a34b&amp;at_ab=per-13&amp;at_pos=2&amp;at_tot=5</link>
-            <guid isPermaLink="false">464770ae-5453-4acb-b863-b593261e7af2</guid>
             <pubDate>Wed, 23 Sep 2015 16:33:05 GMT</pubDate>
         </item>
     </channel>
