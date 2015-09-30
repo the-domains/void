@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 18:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 18:29:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery 2014]]></title>
+            <description><![CDATA[<article><h1>Gallery 2014</h1><p>Images: Mike Bolam. David Coyle For ongoing information on The Dark Outside FM see Frenchblokes blog www.darkoutside.co.uk For additional info on last years Sanctuary (including The Dark Outside FM) also on The Dark Skies Residency 2012/13 see www.thedarkoutside.com https://vimeo.com/110155019</p><img src="https://i1.wp.com/sanctuary2015.files.wordpress.com/2015/03/the-dark-star-lounge_img_61022.jpg?fit=440%2C330"></article>]]></description>
+            <link>http://sanctuary2015.org/gallery/</link>
+            <guid isPermaLink="false">6edf0f27-d73a-4de5-ab6d-8c8d28c4f406</guid>
+            <pubDate>Wed, 30 Sep 2015 18:29:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MattVitelli/GRUV]]></title>
             <description><![CDATA[<article><h1>MattVitelli/GRUV</h1><p>GRUV is a Python project for algorithmic music generation.</p><img src="https://avatars1.githubusercontent.com/u/1497817?v=3&s=400"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Deep learning - Convolutional neural networks and feature extraction with Python</h1><p>Convolutional neural networks (or ConvNets) are biologically-inspired variants of MLPs, they have different kinds of layers and each different layer works different than the usual MLP layers. If you are interested in learning more about ConvNets, a good course is the CS231n - Convolutional Neural Newtorks for Visual Recognition.</p><img src="http://blog.christianperone.com/wp-content/uploads/2015/08/neural_net2.jpeg"></article>]]></description>
             <link>http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/</link>
             <guid isPermaLink="false">efcc7b62-4a5e-422f-9b6d-35bc475f3ffc</guid>
-            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real-time Resizing of Flickr Images Using GPUs]]></title>
-            <description><![CDATA[<article><h1>Real-time Resizing of Flickr Images Using GPUs</h1><p>At Flickr we work with a huge number of photos. Our users upload over 27 million photos a day, and our total collection has over 12 billion photos. This is fantastic! As usage grows, we are always looking for ways to use our storage more efficiently.</p><img src="https://farm1.staticflickr.com/297/19130003555_8a1896d66e_o.png"></article>]]></description>
-            <link>http://code.flickr.net/2015/06/25/real-time-resizing-of-flickr-images-using-gpus/</link>
-            <guid isPermaLink="false">7f292930-4e46-432b-a90d-eb84f0044319</guid>
             <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
         </item>
     </channel>
