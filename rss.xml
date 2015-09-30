@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Sep 2015 18:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 18:30:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.]]></title>
+            <description><![CDATA[<article><h1>Let a 1,000 flowers bloom. Then rip 999 of them out by the roots.</h1><p>For the past eleven months I've been the tech lead for Twitter's Engineering Effectiveness group. Engineering Effectiveness is our name for what elsewhere might be called Developer Tools, Developer Productivity, Engineering Infrastructure, or Developer Efficiency.</p><img src="http://www.gigamonkeys.com/flowers/img/monkey.jpg"></article>]]></description>
+            <link>http://www.gigamonkeys.com/flowers/</link>
+            <guid isPermaLink="false">cd22b8a1-d918-4be4-a7d2-7176648412ef</guid>
+            <pubDate>Wed, 30 Sep 2015 18:29:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rise of Concerns about AI]]></title>
             <description><![CDATA[<article><h1>Rise of Concerns about AI</h1><p>Discussions about artificial intelligence (AI) have jumped into the public eye over the past year, with several luminaries speaking about the threat of AI to the future of humanity. Over the last several decades, AI-automated perception, learning, reasoning, and decision making-has become commonplace in our lives.</p><img src="http://cacm.acm.org/system/assets/0002/1214/092215_Wikia_Rise-of-Concerns.large.jpg?1443188515&1443188515"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>On how programmers involuntarily become managers</h1><p>Something that I've noticed in the software industry is that many people will, at one point, state that they have no interest in becoming managers, only to reach out for the positions a few years later. Now that I'm in my 30s, I see why this is the case, and I can explain it.</p><img src="https://s0.wp.com/i/blank.jpg"></article>]]></description>
             <link>https://michaelochurch.wordpress.com/2015/09/24/on-how-programmers-involuntarily-become-managers/</link>
             <guid isPermaLink="false">6614f460-8f0e-4708-a20f-e60f671d1516</guid>
-            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Literate interactive coding: Devcards" by Bruce Hauman]]></title>
-            <description><![CDATA[<article><h1>"Literate interactive coding: Devcards" by Bruce Hauman</h1><p>Devcards is a ClojureScript library that is my attempt at creating a literate interactive coding style. It allows developers to interactively surface code examples into a web interface live from the source code that they are currently editing. Devcards works by surfacing a set cards which represent code examples.</p><img src="https://i.ytimg.com/vi/G7Z_g2fnEDg/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=G7Z_g2fnEDg</link>
-            <guid isPermaLink="false">faa8511b-7da5-43be-a58e-95d9abb9d86b</guid>
             <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
         </item>
     </channel>
