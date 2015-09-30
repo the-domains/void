@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Sep 2015 16:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2015 18:29:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MattVitelli/GRUV]]></title>
+            <description><![CDATA[<article><h1>MattVitelli/GRUV</h1><p>GRUV is a Python project for algorithmic music generation.</p><img src="https://avatars1.githubusercontent.com/u/1497817?v=3&s=400"></article>]]></description>
+            <link>https://github.com/MattVitelli/GRUV?utm_campaign=explore-email&amp;utm_medium=email&amp;utm_source=newsletter&amp;utm_term=daily</link>
+            <guid isPermaLink="false">5d682c99-164a-478c-ac1c-f945ffac20c5</guid>
+            <pubDate>Wed, 30 Sep 2015 18:29:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[vorpalsound]]></title>
             <description><![CDATA[<article><h1>vorpalsound</h1><p>Hi. After a while, I'm back with a new tutorial. This post's concept is really simple: A basic field recording, minimally edited with CDP, chopped up, and processed live inside Redux. But even such a modest setup can yield a lot of cool sounds, just by using fundamental processing techniques.</p><img src="http://vorpalsound.com/wp-content/uploads/2015/08/vs22-620x620.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://code.flickr.net/2015/06/25/real-time-resizing-of-flickr-images-using-gpus/</link>
             <guid isPermaLink="false">7f292930-4e46-432b-a90d-eb84f0044319</guid>
             <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Projeto Casa Rodante: Cidadania nas ruas da Luz]]></title>
-            <description><![CDATA[<article><h1>Projeto Casa Rodante: Cidadania nas ruas da Luz</h1><p>O projeto Casa Rodante, desenvolvido pelo coletivo artístico casadalapa em parceria com a Secretaria de Direitos Humanos e Cidadania de São Paulo, é uma iniciativa artística e social que tem como cenário a região da Luz, no centro da cidade de São Paulo.</p><img src="http://images.adsttc.com/media/images/5508/4b3c/e58e/ce8c/ad00/0002/large_jpg/DSC_0306_(Custom).jpg?1426606902"></article>]]></description>
-            <link>http://www.archdaily.com.br/br/764005/casa-rodante-nil-cidadania-nas-ruas-da-luz</link>
-            <guid isPermaLink="false">afdf7c67-4d4e-4ddc-a264-16af7b3838b4</guid>
-            <pubDate>Wed, 23 Sep 2015 16:33:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
