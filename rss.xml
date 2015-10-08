@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Oct 2015 15:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2015 15:54:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pyNES | Write NES games in Python]]></title>
+            <description><![CDATA[<article><h1>pyNES | Write NES games in Python</h1><p>pyNES allows you to write NES games in Python. It is a 6502 ASM compiler, aiming to make the development of NES games easier and much more fun.</p><img src="http://i3.ytimg.com/vi/Y-o3pJEhwD4/hqdefault.jpg"></article>]]></description>
+            <link>http://gutomaia.net/pyNES/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=code</link>
+            <guid isPermaLink="false">77714c1d-4e6e-4d47-b714-b8cfb5d62e1e</guid>
+            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gigantic wooden megaphones amplify the sounds of the forest in Estonia]]></title>
             <description><![CDATA[<article><h1>Gigantic wooden megaphones amplify the sounds of the forest in Estonia</h1><p>If you've ever enjoyed a walk in the woods, you've probably noticed the simultaneous "peace and quiet" and subtle busy-ness of Mother Nature. Students in Estonia certainly did - and for an extra dose of awesome, they decided to amplify these natural sounds with three huge wooden megaphones in a lush wooded area.</p><img src="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2015/09/Estonia-Wooden-Megaphones-1-537x359.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>vorpalsound</h1><p>Hi. After a while, I'm back with a new tutorial. This post's concept is really simple: A basic field recording, minimally edited with CDP, chopped up, and processed live inside Redux. But even such a modest setup can yield a lot of cool sounds, just by using fundamental processing techniques.</p><img src="http://vorpalsound.com/wp-content/uploads/2015/08/vs22-620x620.jpg"></article>]]></description>
             <link>http://vorpalsound.com/</link>
             <guid isPermaLink="false">7ea5c641-9575-42e2-a7ea-d80ce0cb9138</guid>
-            <pubDate>Tue, 29 Sep 2015 16:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Making An Interactive Music Video With WebGL]]></title>
-            <description><![CDATA[<article><h1>Making An Interactive Music Video With WebGL</h1><p>Making An Interactive Music Video With WebGL Or how After Effects is for chumps A couple of years ago, my band Brightly wrote a record called Beginnings & Endings . Glen Maddern and I, along with a few of our friends, built an interactive tweet-powered music video for the single Preflight Nerves, which we affectionately called Tweetflight.</p><img src="https://cdn-images-2.medium.com/max/2000/1*3oCmqeYoZYkRLSDhGcXYYw.jpeg"></article>]]></description>
-            <link>https://medium.com/@superhighfives/making-a-music-video-f60757ceb4cf</link>
-            <guid isPermaLink="false">de4b5a2f-5194-4f43-8a40-298a692f6e03</guid>
             <pubDate>Tue, 29 Sep 2015 16:34:13 GMT</pubDate>
         </item>
     </channel>
