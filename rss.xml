@@ -5,8 +5,22 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Oct 2015 02:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2015 15:54:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What makes a good community?]]></title>
+            <description><![CDATA[<article><h1>What makes a good community?</h1><p>Pokes head in, sees comments are generally positive* There's been a lot of discussion in my comment sections (and on LWN) about what makes a good community, along with suggestions of welcoming open source communities to check out. Your hearts are in the right place, but I've never found an open source community that doesn't need improvement.</p><img src="http://69.89.31.149/~theshas9/wp-content/uploads/2013/05/cropped-wordpress-header-1000x360-flipped.jpg"></article>]]></description>
+            <link>http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/</link>
+            <guid isPermaLink="false">aba7fa15-a9c6-4ee1-93b2-fcef3c2d61ee</guid>
+            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I've Been Doing Painting Videos All Wrong]]></title>
+            <description><![CDATA[<article><h1>I've Been Doing Painting Videos All Wrong</h1><p>For the last year or so I've been obsessed with watching instructional videos for painting. I probably own a few thousand dollars worth of videos, plus a subscription to Lynda.com and ArtistsNetwork.tv and I may add another subscription site. I spend about 2-3 hours a week watching videos, and some weeks I may average one...</p><img src="https://c1.staticflickr.com/9/8772/16887677578_26eaab484a_c.jpg"></article>]]></description>
+            <link>http://zedshaw.com/2015/05/28/ive-been-doing-painting-videos-all-wrong/</link>
+            <guid isPermaLink="false">d4830295-f6ce-4f05-ad0c-acf97253b0fe</guid>
+            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Image Based Relighting Using Neural Networks]]></title>
             <description><![CDATA[<article><h1>Image Based Relighting Using Neural Networks</h1><p>We present a neural network regression method for relighting realworld scenes from a small number of images. The relighting in this work is formulated as the product of the scene's light transport matrix and new lighting vectors, with the light transport matrix reconstructed from the input images.</p></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://www.businessinsider.com/could-a-loner-scientist-build-world-changing-artificial-intelligence-2015-9</link>
             <guid isPermaLink="false">7dc13f46-e2a5-4562-a41b-ee990603d027</guid>
             <pubDate>Tue, 29 Sep 2015 16:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is 'Post-digital'?]]></title>
-            <description><![CDATA[<article><h1>What is 'Post-digital'?</h1><p>Florian Cramer. Reader, Creating 010, Hogeschool Rotterdam In January 2013, a picture of a young man typing on a mechanical typewriter while sitting on a park bench went 'viral' on the popular website Reddit.</p><img src="http://www.aprja.net/wp-content/uploads/2014/01/digital.png"></article>]]></description>
-            <link>http://www.aprja.net/?p=1318</link>
-            <guid isPermaLink="false">c90d381f-3adc-400c-8518-62df29bd23a4</guid>
-            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethical Machines]]></title>
-            <description><![CDATA[<article><h1>Ethical Machines</h1><p>For the third episode of Ethical Machines, we had the pleasure of talking with Alex J. Champandard and Gene Kogan. Alex has a background in AI and computer games. Recently, he has been experimenting with Stylenet with his twitter bot "DeepForger". Gene is a programmer and artist who is interested in generative systems & machine learning.</p></article>]]></description>
-            <link>http://ethicalmachines.com/</link>
-            <guid isPermaLink="false">5923447e-bbb2-44e7-8579-296c94c3ee07</guid>
-            <pubDate>Tue, 29 Sep 2015 16:34:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
