@@ -5,8 +5,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 17:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 17:16:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will You Ever Be Able to Upload Your Brain?]]></title>
+            <description><![CDATA[<article><h1>Will You Ever Be Able to Upload Your Brain?</h1><p>SOME hominid along the evolutionary path to humans was probably the first animal with the cognitive ability to understand that it would someday die. To be human is to cope with this knowledge. Many have been consoled by the religious promise of life beyond this world, but some have been seduced by the hope that they can escape death in this world.</p><img src="http://static01.nyt.com/images/2015/10/11/opinion/sunday/11miller/11miller-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/10/11/opinion/sunday/will-you-ever-be-able-to-upload-your-brain.html</link>
+            <guid isPermaLink="false">f85c49e5-da50-42e4-8622-c2e694dbdcb5</guid>
+            <pubDate>Sun, 11 Oct 2015 17:14:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Generative Illustrations of the Human Form by Janusz Jurek]]></title>
             <description><![CDATA[<article><h1>Generative Illustrations of the Human Form by Janusz Jurek</h1><p>Over the last year, Polish designer and illustrator Janusz Jurek has been exploring different forms of generative illustration as it relates to the human form. Some of my favorites are collected into a series title Papilarnie where bundled lines that look like lightning or roadways on maps converg</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/jurek-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://zedshaw.com/2015/05/28/ive-been-doing-painting-videos-all-wrong/</link>
             <guid isPermaLink="false">d4830295-f6ce-4f05-ad0c-acf97253b0fe</guid>
             <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Image Based Relighting Using Neural Networks]]></title>
-            <description><![CDATA[<article><h1>Image Based Relighting Using Neural Networks</h1><p>We present a neural network regression method for relighting realworld scenes from a small number of images. The relighting in this work is formulated as the product of the scene's light transport matrix and new lighting vectors, with the light transport matrix reconstructed from the input images.</p></article>]]></description>
-            <link>http://research.microsoft.com/en-us/um/people/yuedong/project/neuralibr/neuralibr.htm</link>
-            <guid isPermaLink="false">3da07659-dad2-4087-8cfb-dd07df5b0843</guid>
-            <pubDate>Thu, 08 Oct 2015 02:32:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
