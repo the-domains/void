@@ -1,12 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[void]]></title>
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 17:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 18:01:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-2.jpg">]]></description>
+            <link>https://thegrid.ai/void/4bb0b565-caaf-453a-8de5-639883b6d4d8/index.html</link>
+            <guid isPermaLink="false">4bb0b565-caaf-453a-8de5-639883b6d4d8</guid>
+            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-5.jpg">]]></description>
+            <link>https://thegrid.ai/void/040c956e-635b-4f51-9e9e-87512c4aa84a/index.html</link>
+            <guid isPermaLink="false">040c956e-635b-4f51-9e9e-87512c4aa84a</guid>
+            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will You Ever Be Able to Upload Your Brain?]]></title>
             <description><![CDATA[<article><h1>Will You Ever Be Able to Upload Your Brain?</h1><p>SOME hominid along the evolutionary path to humans was probably the first animal with the cognitive ability to understand that it would someday die. To be human is to cope with this knowledge. Many have been consoled by the religious promise of life beyond this world, but some have been seduced by the hope that they can escape death in this world.</p><img src="http://static01.nyt.com/images/2015/10/11/opinion/sunday/11miller/11miller-facebookJumbo.jpg"></article>]]></description>
@@ -61,20 +74,6 @@
             <description><![CDATA[<article><h1>Gigantic wooden megaphones amplify the sounds of the forest in Estonia</h1><p>If you've ever enjoyed a walk in the woods, you've probably noticed the simultaneous "peace and quiet" and subtle busy-ness of Mother Nature. Students in Estonia certainly did - and for an extra dose of awesome, they decided to amplify these natural sounds with three huge wooden megaphones in a lush wooded area.</p><img src="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2015/09/Estonia-Wooden-Megaphones-1-537x359.jpg"></article>]]></description>
             <link>http://inhabitat.com/oversized-wooden-megaphones-in-estonia-amplify-the-sounds-of-the-forest/</link>
             <guid isPermaLink="false">80f558e0-8f12-4501-ad0e-bc7537b332d7</guid>
-            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What makes a good community?]]></title>
-            <description><![CDATA[<article><h1>What makes a good community?</h1><p>Pokes head in, sees comments are generally positive* There's been a lot of discussion in my comment sections (and on LWN) about what makes a good community, along with suggestions of welcoming open source communities to check out. Your hearts are in the right place, but I've never found an open source community that doesn't need improvement.</p><img src="http://69.89.31.149/~theshas9/wp-content/uploads/2013/05/cropped-wordpress-header-1000x360-flipped.jpg"></article>]]></description>
-            <link>http://sarah.thesharps.us/2015/10/06/what-makes-a-good-community/</link>
-            <guid isPermaLink="false">aba7fa15-a9c6-4ee1-93b2-fcef3c2d61ee</guid>
-            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I've Been Doing Painting Videos All Wrong]]></title>
-            <description><![CDATA[<article><h1>I've Been Doing Painting Videos All Wrong</h1><p>For the last year or so I've been obsessed with watching instructional videos for painting. I probably own a few thousand dollars worth of videos, plus a subscription to Lynda.com and ArtistsNetwork.tv and I may add another subscription site. I spend about 2-3 hours a week watching videos, and some weeks I may average one...</p><img src="https://c1.staticflickr.com/9/8772/16887677578_26eaab484a_c.jpg"></article>]]></description>
-            <link>http://zedshaw.com/2015/05/28/ive-been-doing-painting-videos-all-wrong/</link>
-            <guid isPermaLink="false">d4830295-f6ce-4f05-ad0c-acf97253b0fe</guid>
             <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
