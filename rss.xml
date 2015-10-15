@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 18:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 18:02:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/10/loli-3.jpeg">]]></description>
+            <link>https://thegrid.ai/void/b2c23cab-96fc-48d2-8a16-897160541d8e/index.html</link>
+            <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
+            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-1.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/void/d16229af-c977-44d7-a557-41738486654e/index.html</link>
             <guid isPermaLink="false">d16229af-c977-44d7-a557-41738486654e</guid>
             <pubDate>Thu, 08 Oct 2015 17:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art of PNG Glitch]]></title>
-            <description><![CDATA[<article><h1>The Art of PNG Glitch</h1><p>A documentation for all about glitching PNG.</p><img src="http://ucnv.github.io/pnglitch/files/header.jpg"></article>]]></description>
-            <link>http://ucnv.github.io/pnglitch/</link>
-            <guid isPermaLink="false">b55cefbd-4631-4df8-abb7-6929bd6eb7e2</guid>
-            <pubDate>Thu, 08 Oct 2015 15:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
