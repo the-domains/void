@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 16:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:36:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAoI4BUAAAG83w.jpg">]]></description>
+            <link>https://thegrid.ai/void/8c339485-0b3f-4306-b6e1-b5d3f8459c61/index.html</link>
+            <guid isPermaLink="false">8c339485-0b3f-4306-b6e1-b5d3f8459c61</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ferd.ca -> The Little Printf]]></title>
             <description><![CDATA[<article><h1>ferd.ca -> The Little Printf</h1><p>This text is a transcript of a presentation I have given on October 9, 2015, at the CityCode conference in Chicago. This content is also available in video, and as a PDF Document better suited for printing. - I've been lucky enough to have been born before computers and video games were ubiquitous.</p><img src="http://ferd.ca/static/img/printf/printf.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.thisiscolossal.com/2015/08/generative-illustrations-of-the-human-form-by-janusz-jurek/?src=footer</link>
             <guid isPermaLink="false">05aeb473-e16f-4db1-b74f-7ae62d11ce3a</guid>
             <pubDate>Sun, 11 Oct 2015 17:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://40.media.tumblr.com/09ab66b1fd83d46931756a846a2c5695/tumblr_nv7b720i2Q1qh9o2do1_1280.png">]]></description>
-            <link>https://thegrid.ai/void/6396a51a-a62a-4a0a-95cc-86f01f2f23cc/index.html</link>
-            <guid isPermaLink="false">6396a51a-a62a-4a0a-95cc-86f01f2f23cc</guid>
-            <pubDate>Thu, 08 Oct 2015 17:14:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
