@@ -4,8 +4,29 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:37:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSA8vSKWwAAEgrO.jpg">]]></description>
+            <link>https://thegrid.ai/void/ed5c980b-90c7-4811-8287-60cb82475fbf/index.html</link>
+            <guid isPermaLink="false">ed5c980b-90c7-4811-8287-60cb82475fbf</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSA4KuBUYAAk3y-.jpg">]]></description>
+            <link>https://thegrid.ai/void/e227c26f-cc0d-4967-8357-e38d9a82b9a6/index.html</link>
+            <guid isPermaLink="false">e227c26f-cc0d-4967-8357-e38d9a82b9a6</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSA13xsWUAA-Fzi.jpg">]]></description>
+            <link>https://thegrid.ai/void/77a6b9ed-2e6c-4484-af40-ba448bd1baac/index.html</link>
+            <guid isPermaLink="false">77a6b9ed-2e6c-4484-af40-ba448bd1baac</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAzlcvUcAEhs08.jpg">]]></description>
@@ -54,27 +75,6 @@
             <link>http://motherboard.vice.com/read/off-the-grid-but-still-online?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fun</link>
             <guid isPermaLink="false">bf95b809-b4db-4ac5-acd0-bdae14be9ff7</guid>
             <pubDate>Mon, 19 Oct 2015 16:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/10/loli-3.jpeg">]]></description>
-            <link>https://thegrid.ai/void/b2c23cab-96fc-48d2-8a16-897160541d8e/index.html</link>
-            <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
-            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-1.jpg">]]></description>
-            <link>https://thegrid.ai/void/1c6bc97a-47a0-4804-b927-64aa62037ded/index.html</link>
-            <guid isPermaLink="false">1c6bc97a-47a0-4804-b927-64aa62037ded</guid>
-            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/10/loli-4.jpg">]]></description>
-            <link>https://thegrid.ai/void/3043463f-9a24-4b6a-b7c9-4f54413c5bbd/index.html</link>
-            <guid isPermaLink="false">3043463f-9a24-4b6a-b7c9-4f54413c5bbd</guid>
-            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
