@@ -4,8 +4,22 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:37:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAxTd7UYAAW0MZ.jpg">]]></description>
+            <link>https://thegrid.ai/void/c00c9178-2eda-4361-9af5-74597eda619e/index.html</link>
+            <guid isPermaLink="false">c00c9178-2eda-4361-9af5-74597eda619e</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAvAUYWwAA4go9.jpg">]]></description>
+            <link>https://thegrid.ai/void/c905eb0a-82ea-46c2-8277-0014f0f14a88/index.html</link>
+            <guid isPermaLink="false">c905eb0a-82ea-46c2-8277-0014f0f14a88</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAstyiWsAA3Yez.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/void/4bb0b565-caaf-453a-8de5-639883b6d4d8/index.html</link>
             <guid isPermaLink="false">4bb0b565-caaf-453a-8de5-639883b6d4d8</guid>
             <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-5.jpg">]]></description>
-            <link>https://thegrid.ai/void/040c956e-635b-4f51-9e9e-87512c4aa84a/index.html</link>
-            <guid isPermaLink="false">040c956e-635b-4f51-9e9e-87512c4aa84a</guid>
-            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will You Ever Be Able to Upload Your Brain?]]></title>
-            <description><![CDATA[<article><h1>Will You Ever Be Able to Upload Your Brain?</h1><p>SOME hominid along the evolutionary path to humans was probably the first animal with the cognitive ability to understand that it would someday die. To be human is to cope with this knowledge. Many have been consoled by the religious promise of life beyond this world, but some have been seduced by the hope that they can escape death in this world.</p><img src="http://static01.nyt.com/images/2015/10/11/opinion/sunday/11miller/11miller-facebookJumbo.jpg"></article>]]></description>
-            <link>http://www.nytimes.com/2015/10/11/opinion/sunday/will-you-ever-be-able-to-upload-your-brain.html</link>
-            <guid isPermaLink="false">f85c49e5-da50-42e4-8622-c2e694dbdcb5</guid>
-            <pubDate>Sun, 11 Oct 2015 17:14:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
