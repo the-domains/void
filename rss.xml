@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:36:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAstyiWsAA3Yez.jpg">]]></description>
+            <link>https://thegrid.ai/void/b708f997-57e7-4503-9dc8-8e099d874d8e/index.html</link>
+            <guid isPermaLink="false">b708f997-57e7-4503-9dc8-8e099d874d8e</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAoI4BUAAAG83w.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Will You Ever Be Able to Upload Your Brain?</h1><p>SOME hominid along the evolutionary path to humans was probably the first animal with the cognitive ability to understand that it would someday die. To be human is to cope with this knowledge. Many have been consoled by the religious promise of life beyond this world, but some have been seduced by the hope that they can escape death in this world.</p><img src="http://static01.nyt.com/images/2015/10/11/opinion/sunday/11miller/11miller-facebookJumbo.jpg"></article>]]></description>
             <link>http://www.nytimes.com/2015/10/11/opinion/sunday/will-you-ever-be-able-to-upload-your-brain.html</link>
             <guid isPermaLink="false">f85c49e5-da50-42e4-8622-c2e694dbdcb5</guid>
-            <pubDate>Sun, 11 Oct 2015 17:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Generative Illustrations of the Human Form by Janusz Jurek]]></title>
-            <description><![CDATA[<article><h1>Generative Illustrations of the Human Form by Janusz Jurek</h1><p>Over the last year, Polish designer and illustrator Janusz Jurek has been exploring different forms of generative illustration as it relates to the human form. Some of my favorites are collected into a series title Papilarnie where bundled lines that look like lightning or roadways on maps converg</p><img src="http://www.thisiscolossal.com/wp-content/uploads/2015/08/jurek-1.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/2015/08/generative-illustrations-of-the-human-form-by-janusz-jurek/?src=footer</link>
-            <guid isPermaLink="false">05aeb473-e16f-4db1-b74f-7ae62d11ce3a</guid>
             <pubDate>Sun, 11 Oct 2015 17:14:30 GMT</pubDate>
         </item>
     </channel>
