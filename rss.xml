@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:38:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSA_BycWEAAnQyw.jpg">]]></description>
+            <link>https://thegrid.ai/void/fe2f9a34-a3ae-4ceb-a67a-7e300f9a6d54/index.html</link>
+            <guid isPermaLink="false">fe2f9a34-a3ae-4ceb-a67a-7e300f9a6d54</guid>
+            <pubDate>Fri, 23 Oct 2015 16:35:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CSA6cvMWsAA91wQ.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/void/8c339485-0b3f-4306-b6e1-b5d3f8459c61/index.html</link>
             <guid isPermaLink="false">8c339485-0b3f-4306-b6e1-b5d3f8459c61</guid>
             <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ferd.ca -> The Little Printf]]></title>
-            <description><![CDATA[<article><h1>ferd.ca -> The Little Printf</h1><p>This text is a transcript of a presentation I have given on October 9, 2015, at the CityCode conference in Chicago. This content is also available in video, and as a PDF Document better suited for printing. - I've been lucky enough to have been born before computers and video games were ubiquitous.</p><img src="http://ferd.ca/static/img/printf/printf.png"></article>]]></description>
-            <link>http://ferd.ca/the-little-printf.html?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fav</link>
-            <guid isPermaLink="false">72ce404e-ab8d-42de-b350-3f1a64fb6ebb</guid>
-            <pubDate>Mon, 19 Oct 2015 16:17:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
