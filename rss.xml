@@ -4,15 +4,8 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 16:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 16:37:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAxTd7UYAAW0MZ.jpg">]]></description>
-            <link>https://thegrid.ai/void/c00c9178-2eda-4361-9af5-74597eda619e/index.html</link>
-            <guid isPermaLink="false">c00c9178-2eda-4361-9af5-74597eda619e</guid>
-            <pubDate>Fri, 23 Oct 2015 16:35:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CSAvAUYWwAA4go9.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-2.jpg">]]></description>
             <link>https://thegrid.ai/void/4bb0b565-caaf-453a-8de5-639883b6d4d8/index.html</link>
             <guid isPermaLink="false">4bb0b565-caaf-453a-8de5-639883b6d4d8</guid>
+            <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2013/11/joseba-5.jpg">]]></description>
+            <link>https://thegrid.ai/void/040c956e-635b-4f51-9e9e-87512c4aa84a/index.html</link>
+            <guid isPermaLink="false">040c956e-635b-4f51-9e9e-87512c4aa84a</guid>
             <pubDate>Thu, 15 Oct 2015 18:00:06 GMT</pubDate>
         </item>
     </channel>
