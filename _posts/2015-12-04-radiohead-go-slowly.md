@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://youtu.be/B_Sz_STo4-s'
 title: Radiohead - Go Slowly
-datePublished: '2015-12-04T11:32:13.599Z'
-dateModified: '2015-12-04T11:30:03.503Z'
+datePublished: '2015-12-04T11:32:19.069Z'
+dateModified: '2015-12-04T11:32:13.599Z'
 sourcePath: _posts/2015-12-04-radiohead-go-slowly.md
 published: true
 inFeed: true
