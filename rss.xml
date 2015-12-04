@@ -4,8 +4,22 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 11:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 11:13:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae21de4-06b8-432b-bb28-60a8e0a4dd89.jpg">]]></description>
+            <link>https://thegrid.ai/void/2a9624dd-20ca-4b91-8b78-eb6fc05ca039/index.html</link>
+            <guid isPermaLink="false">2a9624dd-20ca-4b91-8b78-eb6fc05ca039</guid>
+            <pubDate>Fri, 04 Dec 2015 11:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/12/JatiPutra08.jpg">]]></description>
+            <link>https://thegrid.ai/void/e64e27ee-c72a-47a1-aa85-ce90dbf893ce/index.html</link>
+            <guid isPermaLink="false">e64e27ee-c72a-47a1-aa85-ce90dbf893ce</guid>
+            <pubDate>Fri, 04 Dec 2015 11:11:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/12/JatiPutra02.jpg">]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/11/semenov-8.jpg">]]></description>
             <link>https://thegrid.ai/void/04d11a6d-08c4-4b86-b5cb-4858c41fb526/index.html</link>
             <guid isPermaLink="false">04d11a6d-08c4-4b86-b5cb-4858c41fb526</guid>
-            <pubDate>Tue, 03 Nov 2015 15:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/11/semenov-12.jpg">]]></description>
-            <link>https://thegrid.ai/void/8cc79d9b-8d0f-4caa-8d1d-4fe84c74fd4c/index.html</link>
-            <guid isPermaLink="false">8cc79d9b-8d0f-4caa-8d1d-4fe84c74fd4c</guid>
-            <pubDate>Tue, 03 Nov 2015 15:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/11/semenov-2.jpg">]]></description>
-            <link>https://thegrid.ai/void/d7c1a10a-b029-4cc0-90ce-96cd178cfa02/index.html</link>
-            <guid isPermaLink="false">d7c1a10a-b029-4cc0-90ce-96cd178cfa02</guid>
             <pubDate>Tue, 03 Nov 2015 15:59:05 GMT</pubDate>
         </item>
     </channel>
