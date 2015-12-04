@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 11:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 11:12:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/12/JatiPutra02.jpg">]]></description>
+            <link>https://thegrid.ai/void/32a03fe4-59ea-422a-8561-66c25c1a0c51/index.html</link>
+            <guid isPermaLink="false">32a03fe4-59ea-422a-8561-66c25c1a0c51</guid>
+            <pubDate>Fri, 04 Dec 2015 11:11:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/12/JatiPutra04.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/void/d7c1a10a-b029-4cc0-90ce-96cd178cfa02/index.html</link>
             <guid isPermaLink="false">d7c1a10a-b029-4cc0-90ce-96cd178cfa02</guid>
             <pubDate>Tue, 03 Nov 2015 15:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Tech Model Railroad Club - Backchannel]]></title>
-            <description><![CDATA[<article><h1>The Tech Model Railroad Club - Backchannel</h1><p>The Tech Model Railroad Club - Backchannel - Medium</p></article>]]></description>
-            <link>https://medium.com/backchannel/the-tech-model-railroad-club-3b06a3163563?hn=1#.g11d29d3u</link>
-            <guid isPermaLink="false">bcec1a97-e171-4cc2-9b8a-3ce3d75a6849</guid>
-            <pubDate>Fri, 30 Oct 2015 15:24:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
