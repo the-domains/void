@@ -4,8 +4,15 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 00:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 00:37:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LastAngelofHistory]]></title>
+            <description><![CDATA[<article><h1>LastAngelofHistory</h1><p>This is "LastAngelofHistory" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de4a77caf2cf80813953e7d71fccd6105b55a6f9.jpg"></article>]]></description>
+            <link>https://vimeo.com/80634679</link>
+            <guid isPermaLink="false">28bbb54a-8e57-49ab-8fce-3554cd1437b2</guid>
+            <pubDate>Wed, 30 Dec 2015 00:36:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Futuro - Hábitos Ruins [Full Album]]]></title>
             <description><![CDATA[<article><h1>Futuro - Hábitos Ruins [Full Album]</h1><p>2015 - Hábitos Ruins Futuro - Hardcore/Punk from SP, Brazil Bandcamp: http://futuro.bandcamp.com/ Facebook: https://www.facebook.com/futurotheband +++++++++++++++++ 1.Ecos 00:00 2.Velho 02:20 3.Mistério 04:40 4.A Última Peça 07:20 5.O Curso 10:55 6.Ossos 13:02 7.History 14:27 8.Dia Eterno 17:37 +++++++++++++++++</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/LVqxMCZ3u6k</link>
             <guid isPermaLink="false">50de5847-2f6f-403e-aab6-b4a7db7642f4</guid>
             <pubDate>Fri, 04 Dec 2015 11:23:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ae21de4-06b8-432b-bb28-60a8e0a4dd89.jpg">]]></description>
-            <link>https://thegrid.ai/void/2a9624dd-20ca-4b91-8b78-eb6fc05ca039/index.html</link>
-            <guid isPermaLink="false">2a9624dd-20ca-4b91-8b78-eb6fc05ca039</guid>
-            <pubDate>Fri, 04 Dec 2015 11:12:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
