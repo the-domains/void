@@ -4,7 +4,7 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 22:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 22:07:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.thisiscolossal.com/2015/10/new-surreal-collages-by-eugenia-loli/</link>
             <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
             <pubDate>Wed, 30 Dec 2015 00:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing: The World's First Fully Functional 3D Printed Watch: The Christoph Laimer Tourbillon]]></title>
+            <description><![CDATA[<article><h1>Introducing: The World's First Fully Functional 3D Printed Watch: The Christoph Laimer Tourbillon</h1><p>It was an unseasonably warm Saturday afternoon in Brooklyn, and I was walking my dog when my phone buzzed with a text message from a friend, containing only a link to something on Thingiverse (a 3D printing file-sharing site).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddce10dc2186e01485188ecc08508f936dacd521.jpg"></article>]]></description>
+            <link>https://www.hodinkee.com/articles/a-major-step-forward-in-horological-additive-manufacturing-christoph-laimers-3d-printed-tourbillon?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=fun</link>
+            <guid isPermaLink="false">b637906c-86a8-4166-a52c-0e80d140dafd</guid>
+            <pubDate>Wed, 17 Feb 2016 22:06:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interim OS running on Interim computer p...]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>LastAngelofHistory</h1><p>This is "LastAngelofHistory" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de4a77caf2cf80813953e7d71fccd6105b55a6f9.jpg"></article>]]></description>
             <link>https://vimeo.com/80634679</link>
             <guid isPermaLink="false">28bbb54a-8e57-49ab-8fce-3554cd1437b2</guid>
-            <pubDate>Wed, 30 Dec 2015 00:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Futuro - Hábitos Ruins [Full Album]]]></title>
-            <description><![CDATA[<article><h1>Futuro - Hábitos Ruins [Full Album]</h1><p>2015 - Hábitos Ruins Futuro - Hardcore/Punk from SP, Brazil Bandcamp: http://futuro.bandcamp.com/ Facebook: https://www.facebook.com/futurotheband +++++++++++++++++ 1.Ecos 00:00 2.Velho 02:20 3.Mistério 04:40 4.A Última Peça 07:20 5.O Curso 10:55 6.Ossos 13:02 7.History 14:27 8.Dia Eterno 17:37 +++++++++++++++++</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/700bcb5a37d2017c522cece42154bb7e5ad9a0f4.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=GaaCk6d5HVg</link>
-            <guid isPermaLink="false">3f937eb1-6471-4015-a5d2-ef06586dd17a</guid>
             <pubDate>Wed, 30 Dec 2015 00:36:22 GMT</pubDate>
         </item>
     </channel>
