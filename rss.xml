@@ -4,7 +4,7 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 18:01:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 18:01:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.thisiscolossal.com/2015/10/new-surreal-collages-by-eugenia-loli/</link>
             <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
             <pubDate>Wed, 30 Dec 2015 00:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2016/02/Aqueduct_04.jpg">]]></description>
+            <link>https://thegrid.ai/void/86797dd7-b00b-41a8-9de3-3d064c1837e4/index.html</link>
+            <guid isPermaLink="false">86797dd7-b00b-41a8-9de3-3d064c1837e4</guid>
+            <pubDate>Mon, 22 Feb 2016 18:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/546301/will-machines-eliminate-us/</link>
             <guid isPermaLink="false">86753556-b371-4ed2-a9e1-621b95f80377</guid>
             <pubDate>Wed, 17 Feb 2016 22:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://the365effect.com/wp-content/uploads/2013/07/Many-Faces.png">]]></description>
-            <link>http://the365effect.com/wp-content/uploads/2013/07/Many-Faces.png</link>
-            <guid isPermaLink="false">05646b39-1e27-4c6b-aa0b-7188ce2d9477</guid>
-            <pubDate>Wed, 30 Dec 2015 21:00:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
