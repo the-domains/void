@@ -4,7 +4,7 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 20:13:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.thisiscolossal.com/2015/10/new-surreal-collages-by-eugenia-loli/</link>
             <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
             <pubDate>Wed, 30 Dec 2015 00:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://40.media.tumblr.com/df414402356034f59bad5e4f86c415b3/tumblr_n6ao0qozgB1twnn02o1_250.jpg">]]></description>
+            <link>https://thegrid.ai/void/7d539b0c-0efc-43f5-b330-f84719e7d9da/index.html</link>
+            <guid isPermaLink="false">7d539b0c-0efc-43f5-b330-f84719e7d9da</guid>
+            <pubDate>Tue, 23 Feb 2016 20:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Interim OS running on Interim computer p...</h1><p>Interim OS running on Interim computer prototype. (Details at http://interim.mntmn.com)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/359a8d87bdf8e917267d68378ffbcced16d3d604.jpg"></article>]]></description>
             <link>http://therealmntmn.tumblr.com/post/128707270189/interim-os-running-on-interim-computer-prototype</link>
             <guid isPermaLink="false">b32d0543-3dc7-45ca-907f-6de2869cf18f</guid>
-            <pubDate>Wed, 17 Feb 2016 22:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 2016 Gear Post]]></title>
-            <description><![CDATA[<article><h1>The 2016 Gear Post</h1><p>Welcome to the 2016 Gear Post! This is my most anticipated post of the year, which means that it's the one I'm harrassed about the most. Due to popular request, I did individual photos for each item, which takes considerably longer to do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d443917b4f79f53a4a1f9dcf382d3fbd02aba4a.jpg"></article>]]></description>
-            <link>http://tynan.com/gear2016</link>
-            <guid isPermaLink="false">c677f06a-1b88-45da-9302-51084dca6899</guid>
             <pubDate>Wed, 17 Feb 2016 22:06:58 GMT</pubDate>
         </item>
     </channel>
