@@ -4,7 +4,7 @@
         <description><![CDATA[void]]></description>
         <link>https://thegrid.ai/void/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 19:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 16:25:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/void/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.thisiscolossal.com/2015/10/new-surreal-collages-by-eugenia-loli/</link>
             <guid isPermaLink="false">b2c23cab-96fc-48d2-8a16-897160541d8e</guid>
             <pubDate>Wed, 30 Dec 2015 00:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This in-depth investigation into #creativity is the best thing you'll find on the internet https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.gun5063a8 ... pic.twitter.com/RdBAo3EQa0</p>]]></description>
+            <link>https://twitter.com/randydeutsch/status/711186253606219776</link>
+            <guid isPermaLink="false">a3a2e8ac-26d0-4971-b93f-1629d51b443f</guid>
+            <pubDate>Sat, 19 Mar 2016 16:25:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2016/02/head-1.jpg">]]></description>
             <link>https://thegrid.ai/void/137e5599-cb33-4e34-9339-5e5953bc106c/index.html</link>
             <guid isPermaLink="false">137e5599-cb33-4e34-9339-5e5953bc106c</guid>
-            <pubDate>Mon, 22 Feb 2016 18:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2016/02/head-5.jpg">]]></description>
-            <link>http://www.thisiscolossal.com/page/2/</link>
-            <guid isPermaLink="false">2736df6f-463a-49a2-9809-343392ad3597</guid>
             <pubDate>Mon, 22 Feb 2016 18:00:32 GMT</pubDate>
         </item>
     </channel>
