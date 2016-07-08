@@ -2,6 +2,7 @@ name: void
 favicon: null
 layout_spectrum: 0.8067657328210771
 typography_spectrum: 0.8675929585006088
+style: the-composer
 cta:
   domain: null
   bucket: null
